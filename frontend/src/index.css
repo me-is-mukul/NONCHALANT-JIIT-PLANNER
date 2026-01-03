@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+.input {
+  @apply bg-black/40 border border-purple-900/40 px-4 py-2 rounded-lg
+         focus:outline-none focus:ring-1 focus:ring-purple-500;
+}
+
+.custom-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb {
+  background: rgba(168, 85, 247, 0.4);
+  border-radius: 999px;
+}
+
+.custom-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}

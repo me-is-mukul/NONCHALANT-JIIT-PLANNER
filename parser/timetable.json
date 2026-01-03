@@ -1,0 +1,8385 @@
+[
+  {
+    "day": "MON",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "25B11EC311",
+    "room": "F8",
+    "faculty": [
+      "JYM"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12(25B11EC311)-F8/JYM"
+  },
+  {
+    "day": "MON",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS434",
+    "room": "G3",
+    "faculty": [
+      "SKU"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS434)-G3/SKU"
+  },
+  {
+    "day": "MON",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "17B1NEC735",
+    "room": "FF5",
+    "faculty": [
+      "SIM"
+    ],
+    "type": "Lecture",
+    "raw": "LA(17B1NEC735)-FF5/SIM"
+  },
+  {
+    "day": "MON",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "M"
+    ],
+    "course": "24B15CS244",
+    "room": "CL02",
+    "faculty": [
+      "AYS"
+    ],
+    "type": "Practical",
+    "raw": "PMinor(24B15CS244)-CL02/AYS"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A17",
+      "A18"
+    ],
+    "course": "18B11EC212",
+    "room": "FF6",
+    "faculty": [
+      "RK"
+    ],
+    "type": "Lecture",
+    "raw": "LA17,A18(18B11EC212)-FF6/RK"
+  },
+  {
+    "day": "MON",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS332",
+    "room": "G6",
+    "faculty": [
+      "PRI"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS332)-G6/PRI"
+  },
+  {
+    "day": "MON",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "25B11EC311",
+    "room": "G3",
+    "faculty": [
+      "MO"
+    ],
+    "type": "Lecture",
+    "raw": "LB3,B4(25B11EC311)-G3/MO"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A1",
+      "A2"
+    ],
+    "course": "15B11EC611",
+    "room": "FF7",
+    "faculty": [
+      "AB"
+    ],
+    "type": "Lecture",
+    "raw": "LA1,A2(15B11EC611)-FF7/AB"
+  },
+  {
+    "day": "MON",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "CS223",
+    "room": "FF9",
+    "faculty": [
+      "PSO"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16 (CS223)-FF9/PSO"
+  },
+  {
+    "day": "MON",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS332",
+    "room": "FF6",
+    "faculty": [
+      "AMN"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS332)-FF6/AMN"
+  },
+  {
+    "day": "MON",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A15",
+      "A16"
+    ],
+    "course": "25B21EC212",
+    "room": "FF8",
+    "faculty": [
+      "NTN"
+    ],
+    "type": "Lecture",
+    "raw": "LA15,A16(25B21EC212)-FF8/NTN"
+  },
+  {
+    "day": "MON",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "25B12EC211",
+    "room": "FF6",
+    "faculty": [
+      "NSH"
+    ],
+    "type": "Lecture",
+    "raw": "LA(25B12EC211)-FF6/NSH"
+  },
+  {
+    "day": "MON",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "19B13BT211",
+    "room": "G6",
+    "faculty": [
+      "EKT"
+    ],
+    "type": "Lecture",
+    "raw": "LB3,B4(19B13BT211) - G6/EKT"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "CS221",
+    "room": "G2",
+    "faculty": [
+      "SHJ"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12 (CS221)-G2/SHJ"
+  },
+  {
+    "day": "MON",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A15",
+      "A16"
+    ],
+    "course": "24B21EC212",
+    "room": "FF6",
+    "faculty": [
+      "SHI"
+    ],
+    "type": "Lecture",
+    "raw": "LA15,A16(24B21EC212)-FF6/SHI"
+  },
+  {
+    "day": "MON",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS431",
+    "room": "LT3",
+    "faculty": [
+      "MB"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS431)-LT3/MB"
+  },
+  {
+    "day": "MON",
+    "time": "11-11.50 AM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "BT211",
+    "room": "C3(BT211)-G4",
+    "faculty": [
+      "VGU",
+      "SBT"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(BT211)-G4/VGU, SBT"
+  },
+  {
+    "day": "MON",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "20B12EC211",
+    "room": "G4",
+    "faculty": [
+      "MNA"
+    ],
+    "type": "Lecture",
+    "raw": "LA(20B12EC211)-G4/MNA"
+  },
+  {
+    "day": "MON",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "19B13BT211",
+    "room": "G8",
+    "faculty": [
+      "POC"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6(19B13BT211) - G8/POC"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "25B11EC311",
+    "room": "G3",
+    "faculty": [
+      "VGO"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10(25B11EC311)-G3/VGO"
+  },
+  {
+    "day": "MON",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A3"
+    ],
+    "course": "18B11EC212",
+    "room": "TS13",
+    "faculty": [
+      "RB"
+    ],
+    "type": "Tutorial",
+    "raw": "TA3(18B11EC212)-TS13/RB"
+  },
+  {
+    "day": "MON",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS431",
+    "room": "G7",
+    "faculty": [
+      "PAC"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS431)-G7/PAC"
+  },
+  {
+    "day": "MON",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "CS221",
+    "room": "G6",
+    "faculty": [
+      "MKT"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2 (CS221)-G6/MKT"
+  },
+  {
+    "day": "MON",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "15B11EC313",
+    "room": "FF7",
+    "faculty": [
+      "MN"
+    ],
+    "type": "Lecture",
+    "raw": "LA(15B11EC313)-FF7/MN"
+  },
+  {
+    "day": "MON",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "19B13BT211",
+    "room": "G9",
+    "faculty": [
+      "GMA"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12(19B13BT211) - G9/GMA"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "25B11MA232",
+    "room": "G4",
+    "faculty": [
+      "HZR"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2(25B11MA232)-G4/HZR"
+  },
+  {
+    "day": "MON",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "CS222",
+    "room": "G2",
+    "faculty": [
+      "NEH"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8 (CS222)-G2/NEH"
+  },
+  {
+    "day": "MON",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A1"
+    ],
+    "course": "18B11EC212",
+    "room": "TS16",
+    "faculty": [
+      "NEJ"
+    ],
+    "type": "Tutorial",
+    "raw": "TA1(18B11EC212)-TS16/NEJ"
+  },
+  {
+    "day": "MON",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS435",
+    "room": "G8",
+    "faculty": [
+      "PSH"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS435)-G8/PSH"
+  },
+  {
+    "day": "MON",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "CS221",
+    "room": "G7",
+    "faculty": [
+      "TRN"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6 (CS221)-G7/TRN"
+  },
+  {
+    "day": "MON",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "25B32EC211",
+    "room": "G3",
+    "faculty": [
+      "VD"
+    ],
+    "type": "Lecture",
+    "raw": "LA(25B32EC211)-G3/VD"
+  },
+  {
+    "day": "MON",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "19B13BT211",
+    "room": "FF8",
+    "faculty": [
+      "SBT",
+      "KAR"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16(19B13BT211) - FF8/SBT,KAR"
+  },
+  {
+    "day": "MON",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "CS222",
+    "room": "G3",
+    "faculty": [
+      "NIY"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10 (CS222)-G3/NIY"
+  },
+  {
+    "day": "MON",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A2"
+    ],
+    "course": "15B11EC413",
+    "room": "TS17",
+    "faculty": [
+      "VK"
+    ],
+    "type": "Tutorial",
+    "raw": "TA2(15B11EC413)-TS17/VK"
+  },
+  {
+    "day": "MON",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS433",
+    "room": "G9",
+    "faculty": [
+      "SDA"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS433)-G9/SDA"
+  },
+  {
+    "day": "MON",
+    "time": "11-11.50 AM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "25B11MA231",
+    "room": "G8",
+    "faculty": [
+      "GA"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2(25B11MA231)-G8/GA"
+  },
+  {
+    "day": "MON",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B1-B3",
+      "B7",
+      "B9"
+    ],
+    "course": "CS211",
+    "room": "B3, LB7, LB9(CS211)-G9",
+    "faculty": [
+      "NET"
+    ],
+    "type": "Lecture",
+    "raw": "LB1-B3, LB7, LB9(CS211)-G9/NET"
+  },
+  {
+    "day": "MON",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "19B13BT211",
+    "room": "G7",
+    "faculty": [
+      "ANS"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10(19B13BT211) -G7/ANS"
+  },
+  {
+    "day": "MON",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A4"
+    ],
+    "course": "15B11EC413",
+    "room": "TS20",
+    "faculty": [
+      "KUL"
+    ],
+    "type": "Tutorial",
+    "raw": "TA4(15B11EC413)-TS20/KUL"
+  },
+  {
+    "day": "MON",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A17",
+      "A18"
+    ],
+    "course": "25B11MA231",
+    "room": "G9",
+    "faculty": [
+      "MKB"
+    ],
+    "type": "Lecture",
+    "raw": "LA17,A18(25B11MA231)-G9/MKB"
+  },
+  {
+    "day": "MON",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B4",
+      "B5",
+      "B6",
+      "B8"
+    ],
+    "course": "CS211",
+    "room": "G1",
+    "faculty": [
+      "SHG"
+    ],
+    "type": "Lecture",
+    "raw": "LB4,B5,B6,B8(CS211)-G1/SHG"
+  },
+  {
+    "day": "MON",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "25B11EC311",
+    "room": "G4",
+    "faculty": [
+      "JAS"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2(25B11EC311)-G4/JAS"
+  },
+  {
+    "day": "MON",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "25B11EC311",
+    "room": "F8",
+    "faculty": [
+      "YM"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12(25B11EC311)-F8/YM"
+  },
+  {
+    "day": "MON",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS412",
+    "room": "FF5",
+    "faculty": [
+      "NES"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS412)-FF5/NES"
+  },
+  {
+    "day": "MON",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "19B13BT211",
+    "room": "CR301",
+    "faculty": [
+      "AKV",
+      "KS"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8(19B13BT211) - CR301/AKV, KS"
+  },
+  {
+    "day": "MON",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B"
+    ],
+    "course": "CS212",
+    "room": "G2",
+    "faculty": [
+      "SHO"
+    ],
+    "type": "Lecture",
+    "raw": "LB(CS212)-G2/SHO"
+  },
+  {
+    "day": "MON",
+    "time": "2-2.50 PM",
+    "batches": [
+      "A8"
+    ],
+    "course": "18B11EC212",
+    "room": "TS13",
+    "faculty": [
+      "AMR"
+    ],
+    "type": "Tutorial",
+    "raw": "TA8(18B11EC212)-TS13/AMR"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B2"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "KJ"
+    ],
+    "type": "Tutorial",
+    "raw": "TB2 (CS221) –TS13 /KJ"
+  },
+  {
+    "day": "MON",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "25B11EC311",
+    "room": "F6",
+    "faculty": [
+      "JAS"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2(25B11EC311)-F6/JAS"
+  },
+  {
+    "day": "MON",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS212",
+    "room": "FF8",
+    "faculty": [
+      "BB"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS212)-FF8/BB"
+  },
+  {
+    "day": "MON",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A1",
+      "A2"
+    ],
+    "course": "18B11EC212",
+    "room": "FF5",
+    "faculty": [
+      "AGO"
+    ],
+    "type": "Lecture",
+    "raw": "LA1,A2(18B11EC212)-FF5/AGO"
+  },
+  {
+    "day": "MON",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B"
+    ],
+    "course": "CS213",
+    "room": "G5",
+    "faculty": [
+      "HEM"
+    ],
+    "type": "Lecture",
+    "raw": "LB(CS213)-G5/HEM"
+  },
+  {
+    "day": "MON",
+    "time": "2-2.50 PM",
+    "batches": [
+      "A3"
+    ],
+    "course": "15B11EC411",
+    "room": "TS16",
+    "faculty": [
+      "AJK"
+    ],
+    "type": "Tutorial",
+    "raw": "TA3(15B11EC411)-TS16/AJK"
+  },
+  {
+    "day": "MON",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS212",
+    "room": "FF9",
+    "faculty": [
+      "EKS"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS212)-FF9/EKS"
+  },
+  {
+    "day": "MON",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A3",
+      "A4"
+    ],
+    "course": "18B11EC212",
+    "room": "FF6",
+    "faculty": [
+      "RB"
+    ],
+    "type": "Lecture",
+    "raw": "LA3,A4(18B11EC212)-FF6/RB"
+  },
+  {
+    "day": "MON",
+    "time": "2-2.50 PM",
+    "batches": [
+      "A7"
+    ],
+    "course": "15B11EC411",
+    "room": "TS17",
+    "faculty": [
+      "NTN"
+    ],
+    "type": "Tutorial",
+    "raw": "TA7(15B11EC411)-TS17/NTN"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "C2"
+    ],
+    "course": "BT372",
+    "room": "BT1",
+    "faculty": [
+      "SMG",
+      "GMA",
+      "NV",
+      "ANR",
+      "POC"
+    ],
+    "type": "Practical",
+    "raw": "PC2(BT372)-BT1/SMG,GMA,NV,ANR,POC"
+  },
+  {
+    "day": "MON",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS213",
+    "room": "G4",
+    "faculty": [
+      "YN"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS213)-G4/YN"
+  },
+  {
+    "day": "MON",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A5",
+      "A6"
+    ],
+    "course": "15B11EC611",
+    "room": "FF7",
+    "faculty": [
+      "RRP"
+    ],
+    "type": "Lecture",
+    "raw": "LA5,A6(15B11EC611))-FF7/RRP"
+  },
+  {
+    "day": "MON",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "MA223",
+    "room": "G7",
+    "faculty": [
+      "MSD"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2(MA223)-G7/MSD"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "C1"
+    ],
+    "course": "BT471",
+    "room": "Bioinfo",
+    "faculty": [
+      "NDH",
+      "CKJ",
+      "RD",
+      "APC"
+    ],
+    "type": "Practical",
+    "raw": "PC1(BT471)-Bioinfo/NDH,CKJ,RD,APC"
+  },
+  {
+    "day": "MON",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "24HS211",
+    "room": "F8",
+    "faculty": [
+      "NIS"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(24HS211)-F8/NIS"
+  },
+  {
+    "day": "MON",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "MA222",
+    "room": "G8",
+    "faculty": [
+      "DCS"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2(MA222)-G8/DCS"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "C3"
+    ],
+    "course": "BT474",
+    "room": "BT2-BT3",
+    "faculty": [
+      "SHM",
+      "MAS",
+      "DSH",
+      "KAR"
+    ],
+    "type": "Practical",
+    "raw": "PC3(BT474)-BT2-BT3/SHM,MAS,DSH,KAR"
+  },
+  {
+    "day": "MON",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS211",
+    "room": "CR526",
+    "faculty": [
+      "NAM"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS211)-CR526/NAM"
+  },
+  {
+    "day": "MON",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B10-B14"
+    ],
+    "course": "CS211",
+    "room": "B14(CS211)-FF9",
+    "faculty": [
+      "NET"
+    ],
+    "type": "Lecture",
+    "raw": "LB10-B14(CS211)-FF9/NET"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "CS224",
+    "room": "CL19,20",
+    "faculty": [
+      "ATI",
+      "SHG",
+      "ASI"
+    ],
+    "type": "Practical",
+    "raw": "PB5,B6(CS224)-CL19,20/ATI,SHG,ASI"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A3"
+    ],
+    "course": "18B15EC212",
+    "room": "ADC",
+    "faculty": [
+      "SMK",
+      "BHG"
+    ],
+    "type": "Practical",
+    "raw": "PA3(18B15EC212)-ADC/SMK,BHG"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A4"
+    ],
+    "course": "15B17EC473",
+    "room": "SPL",
+    "faculty": [
+      "VKH",
+      "TA7"
+    ],
+    "type": "Practical",
+    "raw": "PA4(15B17EC473)-SPL/VKH,TA7"
+  },
+  {
+    "day": "MON",
+    "time": "10 -10.50 AM",
+    "batches": [],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": ""
+  },
+  {
+    "day": "MON",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "12BT311",
+    "room": "C3(12BT311)-G6",
+    "faculty": [
+      "SAJ"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(12BT311)-G6/SAJ"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A10"
+    ],
+    "course": "15B11EC471",
+    "room": "EDC",
+    "faculty": [
+      "RRJ",
+      "ATA"
+    ],
+    "type": "Practical",
+    "raw": "PA10(15B11EC471)-EDC/RRJ,ATA"
+  },
+  {
+    "day": "MON",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A7"
+    ],
+    "course": "18B11EC212",
+    "room": "TS13",
+    "faculty": [
+      "AMR"
+    ],
+    "type": "Tutorial",
+    "raw": "TA7(18B11EC212)-TS13/AMR"
+  },
+  {
+    "day": "MON",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "12BT211",
+    "room": "C3(12BT211)-CR301",
+    "faculty": [
+      "DKP"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(12BT211)-CR301/DKP"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A16A3"
+    ],
+    "course": "24B25EC212",
+    "room": "FABLAB",
+    "faculty": [
+      "SHI",
+      "TA16"
+    ],
+    "type": "Practical",
+    "raw": "PA16A3(24B25EC212)-FABLAB/SHI,TA16"
+  },
+  {
+    "day": "MON",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A10"
+    ],
+    "course": "15B11EC413",
+    "room": "TS16",
+    "faculty": [
+      "KUL"
+    ],
+    "type": "Tutorial",
+    "raw": "TA10(15B11EC413)-TS16/KUL"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B1"
+    ],
+    "course": "25B15EC311",
+    "room": "JBSPL",
+    "faculty": [
+      "JAS",
+      "TA2"
+    ],
+    "type": "Practical",
+    "raw": "PB1(25B15EC311)-JBSPL/JAS,TA2"
+  },
+  {
+    "day": "MON",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A8"
+    ],
+    "course": "15B11EC413",
+    "room": "TS20",
+    "faculty": [
+      "MJ"
+    ],
+    "type": "Tutorial",
+    "raw": "TA8(15B11EC413)-TS20/MJ"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B16"
+    ],
+    "course": "25B15EC311",
+    "room": "MODLAB",
+    "faculty": [
+      "RS",
+      "TA15"
+    ],
+    "type": "Practical",
+    "raw": "PB16(25B15EC311)-MODLAB/RS,TA15"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "CS222",
+    "room": "CL06,07",
+    "faculty": [
+      "NIY",
+      "DEP",
+      "SYN"
+    ],
+    "type": "Practical",
+    "raw": "PB3,B4(CS222)-CL06,07/NIY,DEP,SYN"
+  },
+  {
+    "day": "MON",
+    "time": "3-3.50 PM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "CS222",
+    "room": "CL13,14",
+    "faculty": [
+      "TRN",
+      "IMR",
+      "SOS"
+    ],
+    "type": "Practical",
+    "raw": "PG1,G2(CS222)-CL13,14/TRN,IMR,SOS"
+  },
+  {
+    "day": "MON",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "CS222",
+    "room": "CL15,16",
+    "faculty": [
+      "AYS",
+      "AKM",
+      "PU"
+    ],
+    "type": "Practical",
+    "raw": "PB7,B8(CS222)-CL15,16/AYS,AKM,PU"
+  },
+  {
+    "day": "TUE",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A1",
+      "A2"
+    ],
+    "course": "15B11EC411",
+    "room": "CR301",
+    "faculty": [
+      "JMO"
+    ],
+    "type": "Lecture",
+    "raw": "LA1,A2(15B11EC411)-CR301/JMO"
+  },
+  {
+    "day": "TUE",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A3",
+      "A4"
+    ],
+    "course": "15B11EC411",
+    "room": "FF6",
+    "faculty": [
+      "AJK"
+    ],
+    "type": "Lecture",
+    "raw": "LA3,A4(15B11EC411))-FF6/AJK"
+  },
+  {
+    "day": "TUE",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "19B13BT211",
+    "room": "FF5",
+    "faculty": [
+      "MOB"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2(19B13BT211) - FF5/MOB"
+  },
+  {
+    "day": "TUE",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "17B1NEC735",
+    "room": "FF5",
+    "faculty": [
+      "SIM"
+    ],
+    "type": "Lecture",
+    "raw": "LA(17B1NEC735)-FF5/SIM"
+  },
+  {
+    "day": "TUE",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "B"
+    ],
+    "course": "CS242",
+    "room": "G3",
+    "faculty": [
+      "AYS"
+    ],
+    "type": "Lecture",
+    "raw": "LB(CS242)-G3/AYS"
+  },
+  {
+    "day": "TUE",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS434",
+    "room": "FF5",
+    "faculty": [
+      "SKU"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS434)-FF5/SKU"
+  },
+  {
+    "day": "TUE",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A3",
+      "A4"
+    ],
+    "course": "15B11EC611",
+    "room": "FF6",
+    "faculty": [
+      "AB"
+    ],
+    "type": "Lecture",
+    "raw": "LA3,A4(15B11EC611)-FF6/AB"
+  },
+  {
+    "day": "TUE",
+    "time": "4-4.50 PM",
+    "batches": [
+      "A15",
+      "A16"
+    ],
+    "course": "25B21EC213",
+    "room": "FF6",
+    "faculty": [
+      "KUL"
+    ],
+    "type": "Lecture",
+    "raw": "LA15,A16(25B21EC213))-FF6/KUL"
+  },
+  {
+    "day": "TUE",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "25B11EC311",
+    "room": "CS2",
+    "faculty": [
+      "MO"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6(25B11EC311)-CS2/MO"
+  },
+  {
+    "day": "TUE",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A5",
+      "A6"
+    ],
+    "course": "18B11EC212",
+    "room": "FF8",
+    "faculty": [
+      "VNS"
+    ],
+    "type": "Lecture",
+    "raw": "LA5,A6(18B11EC212)-FF8/VNS"
+  },
+  {
+    "day": "TUE",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "19B13BT211",
+    "room": "FF6",
+    "faculty": [
+      "EKT"
+    ],
+    "type": "Lecture",
+    "raw": "LB3,B4(19B13BT211) - FF6/EKT"
+  },
+  {
+    "day": "TUE",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "B"
+    ],
+    "course": "CS243",
+    "room": "G6",
+    "faculty": [
+      "NET"
+    ],
+    "type": "Lecture",
+    "raw": "LB(CS243)-G6/NET"
+  },
+  {
+    "day": "TUE",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS332",
+    "room": "G3",
+    "faculty": [
+      "PRI"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS332)-G3/PRI"
+  },
+  {
+    "day": "TUE",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A17",
+      "A18"
+    ],
+    "course": "15B11EC611",
+    "room": "FF7",
+    "faculty": [
+      "RRP"
+    ],
+    "type": "Lecture",
+    "raw": "LA17,A18,(15B11EC611))-FF7/RRP"
+  },
+  {
+    "day": "TUE",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "25B11EC311",
+    "room": "FF7",
+    "faculty": [
+      "MO"
+    ],
+    "type": "Lecture",
+    "raw": "LB3,B4(25B11EC311)-FF7/MO"
+  },
+  {
+    "day": "TUE",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "25B11MA232",
+    "room": "FF4",
+    "faculty": [
+      "HZR"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2(25B11MA232)-FF4/HZR"
+  },
+  {
+    "day": "TUE",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "19B13BT211",
+    "room": "FF7",
+    "faculty": [
+      "AKV",
+      "KS"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8(19B13BT211) - FF7/AKV, KS"
+  },
+  {
+    "day": "TUE",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "25B12EC211",
+    "room": "FF6",
+    "faculty": [
+      "NSH"
+    ],
+    "type": "Lecture",
+    "raw": "LA(25B12EC211)-FF6/NSH"
+  },
+  {
+    "day": "TUE",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "M"
+    ],
+    "course": "24B12PH211",
+    "room": "G7",
+    "faculty": [
+      "SHIV"
+    ],
+    "type": "Lecture",
+    "raw": "LMinor(24B12PH211)-G7/SHIV"
+  },
+  {
+    "day": "TUE",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS332",
+    "room": "FF6",
+    "faculty": [
+      "AMN"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS332)-FF6/AMN"
+  },
+  {
+    "day": "TUE",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A15",
+      "A16"
+    ],
+    "course": "15B1NEC733",
+    "room": "FF8",
+    "faculty": [
+      "RS"
+    ],
+    "type": "Lecture",
+    "raw": "LA15,A16(15B1NEC733)-FF8/RS"
+  },
+  {
+    "day": "TUE",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "BT411",
+    "room": "C3(BT411)-CR401",
+    "faculty": [
+      "NDH",
+      "RD"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(BT411)-CR401/NDH, RD"
+  },
+  {
+    "day": "TUE",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "CS221",
+    "room": "G6",
+    "faculty": [
+      "TAJ"
+    ],
+    "type": "Lecture",
+    "raw": "LB3,B4 (CS221)-G6/TAJ"
+  },
+  {
+    "day": "TUE",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "19B13BT211",
+    "room": "FF8",
+    "faculty": [
+      "ANS"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10(19B13BT211) -FF8/ANS"
+  },
+  {
+    "day": "TUE",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "20B12EC211",
+    "room": "FF7",
+    "faculty": [
+      "MNA"
+    ],
+    "type": "Lecture",
+    "raw": "LA(20B12EC211)-FF7/MNA"
+  },
+  {
+    "day": "TUE",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "M"
+    ],
+    "course": "11BT211",
+    "room": "C3(11BT211)-FF7",
+    "faculty": [
+      "SAJ"
+    ],
+    "type": "Lecture",
+    "raw": "LMinorC1-C3(11BT211)-FF7/SAJ"
+  },
+  {
+    "day": "TUE",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS431",
+    "room": "FF7",
+    "faculty": [
+      "MB"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS431)-FF7/MB"
+  },
+  {
+    "day": "TUE",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "CS221",
+    "room": "G3",
+    "faculty": [
+      "KJ"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8 (CS221)-G3/KJ"
+  },
+  {
+    "day": "TUE",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "CS222",
+    "room": "G3",
+    "faculty": [
+      "NEH"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8 (CS222)-G3/NEH"
+  },
+  {
+    "day": "TUE",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "CS223",
+    "room": "FF9",
+    "faculty": [
+      "KM"
+    ],
+    "type": "Lecture",
+    "raw": "LB3,B4 (CS223)-FF9/KM"
+  },
+  {
+    "day": "TUE",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "CS221",
+    "room": "FF9",
+    "faculty": [
+      "TRN"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6 (CS221)-FF9/TRN"
+  },
+  {
+    "day": "TUE",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "19B13BT211",
+    "room": "FF9",
+    "faculty": [
+      "GMA"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12(19B13BT211) - FF9/GMA"
+  },
+  {
+    "day": "TUE",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "15B11EC313",
+    "room": "FF8",
+    "faculty": [
+      "MN"
+    ],
+    "type": "Lecture",
+    "raw": "LA(15B11EC313)-FF8/MN"
+  },
+  {
+    "day": "TUE",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "M"
+    ],
+    "course": "24B15CS245",
+    "room": "CL02",
+    "faculty": [
+      "MSI"
+    ],
+    "type": "Practical",
+    "raw": "PMinor(24B15CS245)-CL02/MSI"
+  },
+  {
+    "day": "TUE",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS431",
+    "room": "G4",
+    "faculty": [
+      "PAC"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS431)-G4/PAC"
+  },
+  {
+    "day": "TUE",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "CS221",
+    "room": "G4",
+    "faculty": [
+      "DL"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10 (CS221)-G4/DL"
+  },
+  {
+    "day": "TUE",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "CS222",
+    "room": "CR301",
+    "faculty": [
+      "NIY"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10 (CS222)-CR301/NIY"
+  },
+  {
+    "day": "TUE",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A1",
+      "A2"
+    ],
+    "course": "15B11EC411",
+    "room": "F8",
+    "faculty": [
+      "JMO"
+    ],
+    "type": "Lecture",
+    "raw": "LA1,A2(15B11EC411)-F8/JMO"
+  },
+  {
+    "day": "TUE",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "25B11MA231",
+    "room": "G7",
+    "faculty": [
+      "GA"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2(25B11MA231)-G7/GA"
+  },
+  {
+    "day": "TUE",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "19B13BT211",
+    "room": "CS4",
+    "faculty": [
+      "SBT",
+      "KAR"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16(19B13BT211) - CS4/SBT,KAR"
+  },
+  {
+    "day": "TUE",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "M"
+    ],
+    "course": "24B15CS244",
+    "room": "CL03",
+    "faculty": [
+      "AYS"
+    ],
+    "type": "Practical",
+    "raw": "PMinor(24B15CS244)-CL03/AYS"
+  },
+  {
+    "day": "TUE",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS435",
+    "room": "G6",
+    "faculty": [
+      "PSH"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS435)-G6/PSH"
+  },
+  {
+    "day": "TUE",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "25B11EC311",
+    "room": "FF8",
+    "faculty": [
+      "YM"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12(25B11EC311)-FF8/YM"
+  },
+  {
+    "day": "TUE",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A17",
+      "A18"
+    ],
+    "course": "25B11MA231",
+    "room": "FF7",
+    "faculty": [
+      "MKB"
+    ],
+    "type": "Lecture",
+    "raw": "LA17,A18(25B11MA231)-FF7/MKB"
+  },
+  {
+    "day": "TUE",
+    "time": "11-11.50 AM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "BT211",
+    "room": "C3(BT211)-G4",
+    "faculty": [
+      "VGU",
+      "SBT"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(BT211)-G4/VGU, SBT"
+  },
+  {
+    "day": "TUE",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B1-B3",
+      "B7",
+      "B9"
+    ],
+    "course": "CS211",
+    "room": "B3, LB7, LB9(CS211)-G1",
+    "faculty": [
+      "NET"
+    ],
+    "type": "Lecture",
+    "raw": "LB1-B3, LB7, LB9(CS211)-G1/NET"
+  },
+  {
+    "day": "TUE",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS433",
+    "room": "G7",
+    "faculty": [
+      "SDA"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS433)-G7/SDA"
+  },
+  {
+    "day": "TUE",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B3"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "TRN"
+    ],
+    "type": "Tutorial",
+    "raw": "TB3 (CS221) – TS13/TRN"
+  },
+  {
+    "day": "TUE",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "BT312",
+    "room": "C3(BT312)-G4",
+    "faculty": [
+      "MOB",
+      "GMA"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(BT312)-G4/MOB,GMA"
+  },
+  {
+    "day": "TUE",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A1",
+      "A2"
+    ],
+    "course": "18B11EC212",
+    "room": "FF5",
+    "faculty": [
+      "AGO"
+    ],
+    "type": "Lecture",
+    "raw": "LA1,A2(18B11EC212)-FF5/AGO"
+  },
+  {
+    "day": "TUE",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B4",
+      "B5",
+      "B6",
+      "B8"
+    ],
+    "course": "CS211",
+    "room": "G3",
+    "faculty": [
+      "SHG"
+    ],
+    "type": "Lecture",
+    "raw": "LB4,B5,B6,B8(CS211)-G3/SHG"
+  },
+  {
+    "day": "TUE",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS211",
+    "room": "G8",
+    "faculty": [
+      "NAM"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS211)-G8/NAM"
+  },
+  {
+    "day": "TUE",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B16"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "TKT"
+    ],
+    "type": "Tutorial",
+    "raw": "TB16 (CS221) – TR302/TKT"
+  },
+  {
+    "day": "TUE",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "25B11EC311",
+    "room": "FF5",
+    "faculty": [
+      "JAS"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2(25B11EC311)-FF5/JAS"
+  },
+  {
+    "day": "TUE",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A3",
+      "A4"
+    ],
+    "course": "18B11EC212",
+    "room": "G8",
+    "faculty": [
+      "RB"
+    ],
+    "type": "Lecture",
+    "raw": "LA3,A4(18B11EC212)-G8/RB"
+  },
+  {
+    "day": "TUE",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B"
+    ],
+    "course": "CS212",
+    "room": "G4",
+    "faculty": [
+      "SHO"
+    ],
+    "type": "Lecture",
+    "raw": "LB(CS212)-G4/SHO"
+  },
+  {
+    "day": "TUE",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS212",
+    "room": "G9",
+    "faculty": [
+      "BB"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS212)-G9/BB"
+  },
+  {
+    "day": "TUE",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A5"
+    ],
+    "course": "18B11EC212",
+    "room": "TS17",
+    "faculty": [
+      "VNS"
+    ],
+    "type": "Tutorial",
+    "raw": "TA5(18B11EC212)-TS17/VNS"
+  },
+  {
+    "day": "TUE",
+    "time": "4-4.50 PM",
+    "batches": [
+      "A4"
+    ],
+    "course": "18B11EC212",
+    "room": "TS13",
+    "faculty": [
+      "RB"
+    ],
+    "type": "Tutorial",
+    "raw": "TA4(18B11EC212)-TS13/RB"
+  },
+  {
+    "day": "TUE",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A3",
+      "A4"
+    ],
+    "course": "15B11EC411",
+    "room": "FF6",
+    "faculty": [
+      "AJK"
+    ],
+    "type": "Lecture",
+    "raw": "LA3,A4(15B11EC411))-FF6/AJK"
+  },
+  {
+    "day": "TUE",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B"
+    ],
+    "course": "CS213",
+    "room": "G5",
+    "faculty": [
+      "HEM"
+    ],
+    "type": "Lecture",
+    "raw": "LB(CS213)-G5/HEM"
+  },
+  {
+    "day": "TUE",
+    "time": "4-4.50 PM",
+    "batches": [
+      "A17"
+    ],
+    "course": "18B11EC212",
+    "room": "TS16",
+    "faculty": [
+      "RK"
+    ],
+    "type": "Tutorial",
+    "raw": "TA17(18B11EC212)-TS16/RK"
+  },
+  {
+    "day": "TUE",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "MA223",
+    "room": "G6",
+    "faculty": [
+      "MSD"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2(MA223)-G6/MSD"
+  },
+  {
+    "day": "TUE",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS212",
+    "room": "FF8",
+    "faculty": [
+      "EKS"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS212)-FF8/EKS"
+  },
+  {
+    "day": "TUE",
+    "time": "4-4.50 PM",
+    "batches": [
+      "A5"
+    ],
+    "course": "15B11EC413",
+    "room": "TS17",
+    "faculty": [
+      "JYM"
+    ],
+    "type": "Tutorial",
+    "raw": "TA5(15B11EC413)-TS17/JYM"
+  },
+  {
+    "day": "TUE",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A10"
+    ],
+    "course": "15B11EC411",
+    "room": "TS13",
+    "faculty": [
+      "NTN"
+    ],
+    "type": "Tutorial",
+    "raw": "TA10(15B11EC411)-TS13/NTN"
+  },
+  {
+    "day": "TUE",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "MA222",
+    "room": "G7",
+    "faculty": [
+      "DCS"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2(MA222)-G7/DCS"
+  },
+  {
+    "day": "TUE",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "24HS211",
+    "room": "FF9",
+    "faculty": [
+      "NIS"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(24HS211)-FF9/NIS"
+  },
+  {
+    "day": "TUE",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A1"
+    ],
+    "course": "15B11EC413",
+    "room": "TS17",
+    "faculty": [
+      "VK"
+    ],
+    "type": "Tutorial",
+    "raw": "TA1(15B11EC413)-TS17/VK"
+  },
+  {
+    "day": "TUE",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "12BT311",
+    "room": "C3(12BT311)-G8",
+    "faculty": [
+      "SAJ"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(12BT311)-G8/SAJ"
+  },
+  {
+    "day": "TUE",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A10"
+    ],
+    "course": "18B11EC212",
+    "room": "TS13",
+    "faculty": [
+      "AMR"
+    ],
+    "type": "Tutorial",
+    "raw": "TA10(18B11EC212)-TS13/AMR"
+  },
+  {
+    "day": "TUE",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "12BT211",
+    "room": "C3(12BT211)-G9",
+    "faculty": [
+      "DKP"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(12BT211)-G9/DKP"
+  },
+  {
+    "day": "TUE",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS412",
+    "room": "F8",
+    "faculty": [
+      "NES"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS412)-F8/NES"
+  },
+  {
+    "day": "TUE",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A1"
+    ],
+    "course": "15B11EC471",
+    "room": "EDC",
+    "faculty": [
+      "JMO",
+      "VGO"
+    ],
+    "type": "Practical",
+    "raw": "PA1(15B11EC471)-EDC/JMO,VGO"
+  },
+  {
+    "day": "TUE",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A8"
+    ],
+    "course": "15B11EC471",
+    "room": "EDC",
+    "faculty": [
+      "AB",
+      "NHI"
+    ],
+    "type": "Practical",
+    "raw": "PA8(15B11EC471)-EDC/AB,NHI"
+  },
+  {
+    "day": "TUE",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A4"
+    ],
+    "course": "15B11EC411",
+    "room": "TS16",
+    "faculty": [
+      "AJK"
+    ],
+    "type": "Tutorial",
+    "raw": "TA4(15B11EC411)-TS16/AJK"
+  },
+  {
+    "day": "TUE",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "25B32EC211",
+    "room": "FF1",
+    "faculty": [
+      "VD"
+    ],
+    "type": "Lecture",
+    "raw": "LA(25B32EC211)-FF1/VD"
+  },
+  {
+    "day": "TUE",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ABC"
+    ],
+    "course": "HS213",
+    "room": "LT3",
+    "faculty": [
+      "YN"
+    ],
+    "type": "Lecture",
+    "raw": "LABC(HS213)-LT3/YN"
+  },
+  {
+    "day": "TUE",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A2"
+    ],
+    "course": "15B17EC473",
+    "room": "SPL",
+    "faculty": [
+      "ABU",
+      "TA14"
+    ],
+    "type": "Practical",
+    "raw": "PA2(15B17EC473)-SPL/ABU,TA14"
+  },
+  {
+    "day": "TUE",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A15A1"
+    ],
+    "course": "24B25EC212",
+    "room": "FABLAB",
+    "faculty": [
+      "HEM",
+      "TA6"
+    ],
+    "type": "Practical",
+    "raw": "PA15A1(24B25EC212)-FABLAB/HEM,TA6"
+  },
+  {
+    "day": "TUE",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A7"
+    ],
+    "course": "15B11EC413",
+    "room": "TS20",
+    "faculty": [
+      "MJ"
+    ],
+    "type": "Tutorial",
+    "raw": "TA7(15B11EC413)-TS20/MJ"
+  },
+  {
+    "day": "TUE",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A5",
+      "A6"
+    ],
+    "course": "15B11EC411",
+    "room": "FF5",
+    "faculty": [
+      "HEM"
+    ],
+    "type": "Lecture",
+    "raw": "LA5,A6(15B11EC411))-FF5/HEM"
+  },
+  {
+    "day": "TUE",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "25B11EC311",
+    "room": "LT3",
+    "faculty": [
+      "MO"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6(25B11EC311)-LT3/MO"
+  },
+  {
+    "day": "TUE",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A6"
+    ],
+    "course": "18B15EC212",
+    "room": "ADC",
+    "faculty": [
+      "AGO",
+      "JYO"
+    ],
+    "type": "Practical",
+    "raw": "PA6(18B15EC212)-ADC/AGO,JYO"
+  },
+  {
+    "day": "TUE",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B11"
+    ],
+    "course": "25B15EC311",
+    "room": "JBSPL",
+    "faculty": [
+      "NYF",
+      "TA15"
+    ],
+    "type": "Practical",
+    "raw": "PB11(25B15EC311)-JBSPL/NYF,TA15"
+  },
+  {
+    "day": "TUE",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B5"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "DL"
+    ],
+    "type": "Tutorial",
+    "raw": "TB5 (CS221) –TS17 /DL"
+  },
+  {
+    "day": "TUE",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A7",
+      "A8",
+      "A10"
+    ],
+    "course": "18B11EC212",
+    "room": "FF6",
+    "faculty": [
+      "AMR"
+    ],
+    "type": "Lecture",
+    "raw": "LA7,A8,A10(18B11EC212)-FF6/AMR"
+  },
+  {
+    "day": "TUE",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B14"
+    ],
+    "course": "25B15EC311",
+    "room": "JBSPL",
+    "faculty": [
+      "RS",
+      "TA15"
+    ],
+    "type": "Practical",
+    "raw": "PB14(25B15EC311)-JBSPL/RS,TA15"
+  },
+  {
+    "day": "TUE",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "CS224",
+    "room": "CL19,20",
+    "faculty": [
+      "ATI",
+      "SHGAMT"
+    ],
+    "type": "Practical",
+    "raw": "PB9,B10(CS224)-CL19,20/ATI,SHGAMT"
+  },
+  {
+    "day": "TUE",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B6"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "KJ"
+    ],
+    "type": "Tutorial",
+    "raw": "TB6 (CS221) – F10/KJ"
+  },
+  {
+    "day": "TUE",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "CS224",
+    "room": "CL02,03",
+    "faculty": [
+      "TAJ",
+      "ATI",
+      "SHG"
+    ],
+    "type": "Practical",
+    "raw": "PB1,B2(CS224)-CL02,03/TAJ,ATI,SHG"
+  },
+  {
+    "day": "TUE",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "CS222",
+    "room": "CL01,02",
+    "faculty": [
+      "AMS",
+      "NEH",
+      "SYN"
+    ],
+    "type": "Practical",
+    "raw": "PB1,B2(CS222)-CL01,02/AMS,NEH,SYN"
+  },
+  {
+    "day": "TUE",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "CS222",
+    "room": "CL05,06",
+    "faculty": [
+      "SYN",
+      "SUD",
+      "NIY"
+    ],
+    "type": "Practical",
+    "raw": "PB5,B6(CS222)-CL05,06/SYN,SUD,NIY"
+  },
+  {
+    "day": "TUE",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "CS222",
+    "room": "CL10,11",
+    "faculty": [
+      "AKM",
+      "DL",
+      "SOS"
+    ],
+    "type": "Practical",
+    "raw": "PB14,B16(CS222)-CL10,11/AKM,DL,SOS"
+  },
+  {
+    "day": "TUE",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "CS222",
+    "room": "CL07,08",
+    "faculty": [
+      "AMS",
+      "PU",
+      "DEP"
+    ],
+    "type": "Practical",
+    "raw": "PB11,B12(CS222)-CL07,08/AMS,PU,DEP"
+  },
+  {
+    "day": "TUE",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "CS224",
+    "room": "CL13,14",
+    "faculty": [
+      "AKM",
+      "DEP",
+      "SLK"
+    ],
+    "type": "Practical",
+    "raw": "PB7,B8(CS224)-CL13,14/AKM,DEP,SLK"
+  },
+  {
+    "day": "TUE",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A7"
+    ],
+    "course": "18B15EC212",
+    "room": "ADC",
+    "faculty": [
+      "RK",
+      "AGO"
+    ],
+    "type": "Practical",
+    "raw": "PA7(18B15EC212)-ADC/RK,AGO"
+  },
+  {
+    "day": "WED",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A17",
+      "A18"
+    ],
+    "course": "15B11EC413",
+    "room": "FF6",
+    "faculty": [
+      "JYO"
+    ],
+    "type": "Lecture",
+    "raw": "LA17,A18,(15B11EC413)-FF6/JYO"
+  },
+  {
+    "day": "WED",
+    "time": "4-4.50 PM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "CS222",
+    "room": "FF5",
+    "faculty": [
+      "AKM"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2 (CS222)-FF5/AKM"
+  },
+  {
+    "day": "WED",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A5",
+      "A6"
+    ],
+    "course": "15B11EC413",
+    "room": "FF7",
+    "faculty": [
+      "JOY"
+    ],
+    "type": "Lecture",
+    "raw": "LA5,A6(15B11EC413))-FF7/JOY"
+  },
+  {
+    "day": "WED",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A7",
+      "A8",
+      "A10"
+    ],
+    "course": "15B11EC411",
+    "room": "G9",
+    "faculty": [
+      "SLM"
+    ],
+    "type": "Lecture",
+    "raw": "LA7,A8,A10(15B11EC411))-G9/SLM"
+  },
+  {
+    "day": "WED",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A3",
+      "A4"
+    ],
+    "course": "15B11EC413",
+    "room": "FF7",
+    "faculty": [
+      "JOY"
+    ],
+    "type": "Lecture",
+    "raw": "LA3,A4(15B11EC413))-FF7/JOY"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      " HSS-1"
+    ],
+    "course": null,
+    "room": "1",
+    "faculty": [],
+    "type": "Tutorial",
+    "raw": "T HSS-1"
+  },
+  {
+    "day": "WED",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A3",
+      "A4"
+    ],
+    "course": "15B11EC611",
+    "room": "FF7",
+    "faculty": [
+      "AB"
+    ],
+    "type": "Lecture",
+    "raw": "LA3,A4(15B11EC611)-FF7/AB"
+  },
+  {
+    "day": "WED",
+    "time": "4-4.50 PM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "12BT211",
+    "room": "C3(12BT211)-FF6",
+    "faculty": [
+      "DKP"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(12BT211)-FF6/DKP"
+  },
+  {
+    "day": "WED",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "CS221",
+    "room": "CR301",
+    "faculty": [
+      "MKT"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2 (CS221)-CR301/MKT"
+  },
+  {
+    "day": "WED",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "25B11EC311",
+    "room": "G3",
+    "faculty": [
+      "SKA"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8(25B11EC311)-G3/SKA"
+  },
+  {
+    "day": "WED",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "25B11EC311",
+    "room": "G3",
+    "faculty": [
+      "VGO"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10(25B11EC311)-G3/VGO"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      "A1-A8",
+      "G1-G2"
+    ],
+    "course": "HS212",
+    "room": "A8, G1-G2 (HS212)-TS13",
+    "faculty": [
+      "BB"
+    ],
+    "type": "Tutorial",
+    "raw": "TA1-A8, G1-G2 (HS212)-TS13/BB"
+  },
+  {
+    "day": "WED",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "25B11EC311",
+    "room": "G3",
+    "faculty": [
+      "MTO"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16(25B11EC311)-G3/MTO"
+  },
+  {
+    "day": "WED",
+    "time": "4-4.50 PM",
+    "batches": [
+      "A15",
+      "A16"
+    ],
+    "course": "25B21EC212",
+    "room": "FF7",
+    "faculty": [
+      "NTN"
+    ],
+    "type": "Lecture",
+    "raw": "LA15,A16(25B21EC212)-FF7/NTN"
+  },
+  {
+    "day": "WED",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "25B11MA232",
+    "room": "CR526",
+    "faculty": [
+      "HZR"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2(25B11MA232)-CR526/HZR"
+  },
+  {
+    "day": "WED",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "CS221",
+    "room": "FF2",
+    "faculty": [
+      "SHJ"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12 (CS221)-FF2/SHJ"
+  },
+  {
+    "day": "WED",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A1",
+      "A2"
+    ],
+    "course": "15B11EC413",
+    "room": "FF3",
+    "faculty": [
+      "VK"
+    ],
+    "type": "Lecture",
+    "raw": "LA1,A2(15B11EC413)-FF3/VK"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      "A15-A18",
+      "C1-C3"
+    ],
+    "course": "HS212",
+    "room": "A18, C1-C3 (HS212)-TS16",
+    "faculty": [
+      "EKS"
+    ],
+    "type": "Tutorial",
+    "raw": "TA15-A18, C1-C3 (HS212)-TS16/EKS"
+  },
+  {
+    "day": "WED",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "BT414",
+    "room": "C3(BT414)-CS2",
+    "faculty": [
+      "RAC",
+      "SHM"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(BT414)-CS2/RAC, SHM"
+  },
+  {
+    "day": "WED",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "CS223",
+    "room": "G3",
+    "faculty": [
+      "PSO"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8 (CS223)-G3/PSO"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      "A1-A10"
+    ],
+    "course": "HS332",
+    "room": "A10 (HS332)-TS17",
+    "faculty": [
+      "AMN"
+    ],
+    "type": "Tutorial",
+    "raw": "TA1-A10 (HS332)-TS17/AMN"
+  },
+  {
+    "day": "WED",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "CS221",
+    "room": "FF8",
+    "faculty": [
+      "KJ"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8 (CS221)-FF8/KJ"
+  },
+  {
+    "day": "WED",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "CS222",
+    "room": "G3",
+    "faculty": [
+      "NEH"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8 (CS222)-G3/NEH"
+  },
+  {
+    "day": "WED",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "19B13BT211",
+    "room": "CS5",
+    "faculty": [
+      "POC"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6(19B13BT211) - CS5/POC"
+  },
+  {
+    "day": "WED",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "CS221",
+    "room": "FF3",
+    "faculty": [
+      "TAJ"
+    ],
+    "type": "Lecture",
+    "raw": "LB3,B4 (CS221)-FF3/TAJ"
+  },
+  {
+    "day": "WED",
+    "time": "11-11.50 AM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "CS221",
+    "room": "G7",
+    "faculty": [
+      "MKT"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2 (CS221)-G7/MKT"
+  },
+  {
+    "day": "WED",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "CS223",
+    "room": "FF1",
+    "faculty": [
+      "RJM"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10 (CS223)-FF1/RJM"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      "A15-A18",
+      "C1-C3",
+      "G1-G2"
+    ],
+    "course": "HS332",
+    "room": "A18, C1-C3, G1-G2 (HS332)-TR302",
+    "faculty": [
+      "PRI"
+    ],
+    "type": "Tutorial",
+    "raw": "TA15-A18, C1-C3, G1-G2 (HS332)-TR302/PRI"
+  },
+  {
+    "day": "WED",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "CS221",
+    "room": "FF9",
+    "faculty": [
+      "DL"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10 (CS221)-FF9/DL"
+  },
+  {
+    "day": "WED",
+    "time": "4-4.50 PM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "12BT311",
+    "room": "C3(12BT311)-G4",
+    "faculty": [
+      "SAJ"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(12BT311)-G4/SAJ"
+  },
+  {
+    "day": "WED",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "CS222",
+    "room": "FF4",
+    "faculty": [
+      "SYN"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12 (CS222)-FF4/SYN"
+  },
+  {
+    "day": "WED",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "CS221",
+    "room": "FF4",
+    "faculty": [
+      "TRN"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6 (CS221)-FF4/TRN"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ACG"
+    ],
+    "course": "HS435",
+    "room": "TS20",
+    "faculty": [
+      "PSH"
+    ],
+    "type": "Tutorial",
+    "raw": "TACG (HS435)-TS20/PSH"
+  },
+  {
+    "day": "WED",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "CS221",
+    "room": "G1",
+    "faculty": [
+      "SHJ"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12 (CS221)-G1/SHJ"
+  },
+  {
+    "day": "WED",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "CS222",
+    "room": "CR325",
+    "faculty": [
+      "NIY"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10 (CS222)-CR325/NIY"
+  },
+  {
+    "day": "WED",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A3"
+    ],
+    "course": "15B11EC413",
+    "room": "TS13",
+    "faculty": [
+      "KUL"
+    ],
+    "type": "Tutorial",
+    "raw": "TA3(15B11EC413)-TS13/KUL"
+  },
+  {
+    "day": "WED",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "25B11MA231",
+    "room": "G6",
+    "faculty": [
+      "GA"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2(25B11MA231)-G6/GA"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      "AC"
+    ],
+    "course": "HS211",
+    "room": "F10",
+    "faculty": [
+      "NAM"
+    ],
+    "type": "Tutorial",
+    "raw": "TAC(HS211)-F10/NAM"
+  },
+  {
+    "day": "WED",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "CS223",
+    "room": "G3",
+    "faculty": [
+      "ATI"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2 (CS223)-G3/ATI"
+  },
+  {
+    "day": "WED",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "CS224",
+    "room": "CR301",
+    "faculty": [
+      "DEP"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12 (CS224)-CR301/DEP"
+  },
+  {
+    "day": "WED",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B7"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "DL"
+    ],
+    "type": "Tutorial",
+    "raw": "TB7 (CS221) –TS16 /DL"
+  },
+  {
+    "day": "WED",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A17",
+      "A18"
+    ],
+    "course": "25B11MA231",
+    "room": "G7",
+    "faculty": [
+      "MKB"
+    ],
+    "type": "Lecture",
+    "raw": "LA17,A18(25B11MA231)-G7/MKB"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "24HS211",
+    "room": "TS12",
+    "faculty": [
+      "NIS"
+    ],
+    "type": "Tutorial",
+    "raw": "TA (24HS211)-TS12/NIS"
+  },
+  {
+    "day": "WED",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "CS222",
+    "room": "FF8",
+    "faculty": [
+      "SOS"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16 (CS222)-FF8/SOS"
+  },
+  {
+    "day": "WED",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B8"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "KJ"
+    ],
+    "type": "Tutorial",
+    "raw": "TB8 (CS221) – TS17/KJ"
+  },
+  {
+    "day": "WED",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "BT411",
+    "room": "C3(BT411)-G4",
+    "faculty": [
+      "APC",
+      "RD"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(BT411)-G4/APC, RD"
+  },
+  {
+    "day": "WED",
+    "time": "11-11.50 AM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "BT211",
+    "room": "C3(BT211)-G4",
+    "faculty": [
+      "VGU",
+      "SBT"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(BT211)-G4/VGU, SBT"
+  },
+  {
+    "day": "WED",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "C2"
+    ],
+    "course": "BT411",
+    "room": "TS13",
+    "faculty": [
+      "APC",
+      "RD"
+    ],
+    "type": "Tutorial",
+    "raw": "TC2(BT411)-TS13/APC,RD"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      "A1-A6"
+    ],
+    "course": "HS431",
+    "room": "A6 (HS431)-FF5",
+    "faculty": [
+      "MB"
+    ],
+    "type": "Tutorial",
+    "raw": "TA1-A6 (HS431)-FF5/MB"
+  },
+  {
+    "day": "WED",
+    "time": "3-3.50 PM",
+    "batches": [
+      "C3"
+    ],
+    "course": "BT312",
+    "room": "TS16",
+    "faculty": [
+      "MOB",
+      "GMA"
+    ],
+    "type": "Tutorial",
+    "raw": "TC3(BT312)-TS16/MOB, GMA"
+  },
+  {
+    "day": "WED",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B4"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "TAJ"
+    ],
+    "type": "Tutorial",
+    "raw": "TB4 (CS221) –TR302 /TAJ"
+  },
+  {
+    "day": "WED",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "CS221",
+    "room": "G9",
+    "faculty": [
+      "TKT"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16 (CS221)-G9/TKT"
+  },
+  {
+    "day": "WED",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "C1"
+    ],
+    "course": "BT211",
+    "room": "TS16",
+    "faculty": [
+      "VGU",
+      "SBT"
+    ],
+    "type": "Tutorial",
+    "raw": "TC1(BT211)-TS16/VGU, SBT"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      "AG"
+    ],
+    "course": "HS412",
+    "room": "FF6",
+    "faculty": [
+      "NES"
+    ],
+    "type": "Tutorial",
+    "raw": "TAG (HS412)-FF6/NES"
+  },
+  {
+    "day": "WED",
+    "time": "3-3.50 PM",
+    "batches": [
+      "G2"
+    ],
+    "course": "25B11MA232",
+    "room": "TS13",
+    "faculty": [
+      "HPT"
+    ],
+    "type": "Tutorial",
+    "raw": "TG2(25B11MA232)-TS13/HPT"
+  },
+  {
+    "day": "WED",
+    "time": "4-4.50 PM",
+    "batches": [
+      "A18"
+    ],
+    "course": "18B11EC212",
+    "room": "TS13",
+    "faculty": [
+      "RK"
+    ],
+    "type": "Tutorial",
+    "raw": "TA18(18B11EC212)-TS13/RK"
+  },
+  {
+    "day": "WED",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B10"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "TKT"
+    ],
+    "type": "Tutorial",
+    "raw": "TB10 (CS221) –TR305 /TKT"
+  },
+  {
+    "day": "WED",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A2"
+    ],
+    "course": "15B11EC411",
+    "room": "TS13",
+    "faculty": [
+      "NTN"
+    ],
+    "type": "Tutorial",
+    "raw": "TA2(15B11EC411)-TS13/NTN"
+  },
+  {
+    "day": "WED",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "C3"
+    ],
+    "course": "BT312",
+    "room": "TS17",
+    "faculty": [
+      "MOB",
+      "GMA"
+    ],
+    "type": "Tutorial",
+    "raw": "TC3(BT312)-TS17/MOB, GMA"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "HS434",
+    "room": "FF7",
+    "faculty": [
+      "SKU"
+    ],
+    "type": "Tutorial",
+    "raw": "TA (HS434)-FF7/SKU"
+  },
+  {
+    "day": "WED",
+    "time": "4-4.50 PM",
+    "batches": [
+      "A8"
+    ],
+    "course": "15B11EC411",
+    "room": "TS16",
+    "faculty": [
+      "SLM"
+    ],
+    "type": "Tutorial",
+    "raw": "TA8(15B11EC411)-TS16/SLM"
+  },
+  {
+    "day": "WED",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "25B11EC311",
+    "room": "CR302",
+    "faculty": [
+      "JAS"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2(25B11EC311)-CR302/JAS"
+  },
+  {
+    "day": "WED",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "G1"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "SHJ"
+    ],
+    "type": "Tutorial",
+    "raw": "TG1(CS221) – TS6/SHJ"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ACG"
+    ],
+    "course": "HS213",
+    "room": "FF8",
+    "faculty": [
+      "YN"
+    ],
+    "type": "Tutorial",
+    "raw": "TACG (HS213)-FF8/YN"
+  },
+  {
+    "day": "WED",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B1"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "TAJ"
+    ],
+    "type": "Tutorial",
+    "raw": "TB1 (CS221) – TS7/TAJ"
+  },
+  {
+    "day": "WED",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A7"
+    ],
+    "course": "15B11EC471",
+    "room": "EDC",
+    "faculty": [
+      "AB",
+      "NHI"
+    ],
+    "type": "Practical",
+    "raw": "PA7(15B11EC471)-EDC/AB,NHI"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      "ACG"
+    ],
+    "course": "HS433",
+    "room": "FF9",
+    "faculty": [
+      "SDA"
+    ],
+    "type": "Tutorial",
+    "raw": "TACG (HS433)-FF9/SDA"
+  },
+  {
+    "day": "WED",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A8"
+    ],
+    "course": "18B15EC212",
+    "room": "ADC",
+    "faculty": [
+      "RK",
+      "AGO"
+    ],
+    "type": "Practical",
+    "raw": "PA8(18B15EC212)-ADC/RK,AGO"
+  },
+  {
+    "day": "WED",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A15"
+    ],
+    "course": "25B25EC212",
+    "room": "ADE",
+    "faculty": [
+      "SIM",
+      "BVI"
+    ],
+    "type": "Practical",
+    "raw": "PA15(25B25EC212)-ADE/SIM,BVI"
+  },
+  {
+    "day": "WED",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "M"
+    ],
+    "course": "11BT211",
+    "room": "C3(11BT211)-G4",
+    "faculty": [
+      "SAJ"
+    ],
+    "type": "Lecture",
+    "raw": "LMinorC1-C3(11BT211)-G4/SAJ"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      "A7-A8",
+      "A10",
+      "A15-A18"
+    ],
+    "course": "HS431",
+    "room": "A8,A10,A15-A18 (HS431)-CR501",
+    "faculty": [
+      "PAC"
+    ],
+    "type": "Tutorial",
+    "raw": "TA7-A8,A10,A15-A18 (HS431)-CR501/PAC"
+  },
+  {
+    "day": "WED",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A1"
+    ],
+    "course": "18B15EC212",
+    "room": "ADC",
+    "faculty": [
+      "NEJ",
+      "VNS",
+      "SHWETA"
+    ],
+    "type": "Practical",
+    "raw": "PA1 (18B15EC212)-ADC/NEJ,VNS,SHWETA"
+  },
+  {
+    "day": "WED",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A10"
+    ],
+    "course": "15B17EC473",
+    "room": "SPL",
+    "faculty": [
+      "MNA"
+    ],
+    "type": "Practical",
+    "raw": "PA10(15B17EC473)-SPL/MNA"
+  },
+  {
+    "day": "WED",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A17"
+    ],
+    "course": "15B17EC473",
+    "room": "MODLAB",
+    "faculty": [
+      "VK",
+      "TA3"
+    ],
+    "type": "Practical",
+    "raw": "PA17(15B17EC473)-MODLAB/VK,TA3"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B10-B14"
+    ],
+    "course": "CS211",
+    "room": "B14(CS211)-F8",
+    "faculty": [
+      "NET"
+    ],
+    "type": "Lecture",
+    "raw": "LB10-B14(CS211)-F8/NET"
+  },
+  {
+    "day": "WED",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A5"
+    ],
+    "course": "15B11EC471",
+    "room": "EDC",
+    "faculty": [
+      "RRJ",
+      "ATA"
+    ],
+    "type": "Practical",
+    "raw": "PA5(15B11EC471)-EDC/RRJ,ATA"
+  },
+  {
+    "day": "WED",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A15A2"
+    ],
+    "course": "24B25EC212",
+    "room": "FABLAB",
+    "faculty": [
+      "HEM",
+      "TA6"
+    ],
+    "type": "Practical",
+    "raw": "PA15A2(24B25EC212)-FABLAB/HEM,TA6"
+  },
+  {
+    "day": "WED",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B2"
+    ],
+    "course": "25B15EC311",
+    "room": "JBSPL",
+    "faculty": [
+      "ATA",
+      "TA10"
+    ],
+    "type": "Practical",
+    "raw": "PB2(25B15EC311)-JBSPL/ATA,TA10"
+  },
+  {
+    "day": "WED",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A6"
+    ],
+    "course": "15B17EC473",
+    "room": "SPL",
+    "faculty": [
+      "JOY",
+      "TA14"
+    ],
+    "type": "Practical",
+    "raw": "PA6(15B17EC473)-SPL/JOY,TA14"
+  },
+  {
+    "day": "WED",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B9"
+    ],
+    "course": "25B15EC311",
+    "room": "JBSPL",
+    "faculty": [
+      "MO",
+      "TA3"
+    ],
+    "type": "Practical",
+    "raw": "PB9(25B15EC311)-JBSPL/MO,TA3"
+  },
+  {
+    "day": "WED",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "CS224",
+    "room": "CL11,12",
+    "faculty": [
+      "ALK",
+      "AMT",
+      "TAJ"
+    ],
+    "type": "Practical",
+    "raw": "PB11,B12(CS224)-CL11,12/ALK,AMT,TAJ"
+  },
+  {
+    "day": "WED",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B3"
+    ],
+    "course": "25B15EC311",
+    "room": "MODLAB",
+    "faculty": [
+      "RIG",
+      "TA9"
+    ],
+    "type": "Practical",
+    "raw": "PB3(25B15EC311)-MODLAB/RIG,TA9"
+  },
+  {
+    "day": "WED",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "CS224",
+    "room": "CL14,15",
+    "faculty": [
+      "AKM",
+      "ASI",
+      "ATI"
+    ],
+    "type": "Practical",
+    "raw": "PB14,B16(CS224)-CL14,15/AKM,ASI,ATI"
+  },
+  {
+    "day": "WED",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B5"
+    ],
+    "course": "25B15EC311",
+    "room": "JBSPL",
+    "faculty": [
+      "MO",
+      "TA12"
+    ],
+    "type": "Practical",
+    "raw": "PB5(25B15EC311)-JBSPL/MO,TA12"
+  },
+  {
+    "day": "WED",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B3",
+      "B4",
+      "B5",
+      "B6"
+    ],
+    "course": "25B16CS211",
+    "room": "CL21,22,23,24",
+    "faculty": [
+      "BS",
+      "MSI",
+      "PAG",
+      "NSA"
+    ],
+    "type": "Practical",
+    "raw": "PB3,B4,B5,B6(25B16CS211)-CL21,22,23,24/BS,MSI,PAG,NSA"
+  },
+  {
+    "day": "WED",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B6"
+    ],
+    "course": "CS221",
+    "room": "CL15",
+    "faculty": [
+      "VRN",
+      "DL"
+    ],
+    "type": "Practical",
+    "raw": "PB6(CS221)-CL15/VRN,DL"
+  },
+  {
+    "day": "WED",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A16"
+    ],
+    "course": "24B25EC213",
+    "room": "SPL",
+    "faculty": [
+      "MN",
+      "GK"
+    ],
+    "type": "Practical",
+    "raw": "PA16(24B25EC213)-SPL/MN,GK"
+  },
+  {
+    "day": "THU",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "25B11EC311",
+    "room": null,
+    "faculty": [
+      "JYM"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12(25B11EC311)G7/JYM"
+  },
+  {
+    "day": "THU",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A17",
+      "A18"
+    ],
+    "course": "18B11EC212",
+    "room": "FF7",
+    "faculty": [
+      "RK"
+    ],
+    "type": "Lecture",
+    "raw": "LA17,A18(18B11EC212)-FF7/RK"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A1",
+      "A2"
+    ],
+    "course": "15B11EC611",
+    "room": "FF7",
+    "faculty": [
+      "AB"
+    ],
+    "type": "Lecture",
+    "raw": "LA1,A2(15B11EC611)-FF7/AB"
+  },
+  {
+    "day": "THU",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A3",
+      "A4"
+    ],
+    "course": "15B11EC413",
+    "room": "FF6",
+    "faculty": [
+      "JOY"
+    ],
+    "type": "Lecture",
+    "raw": "LA3,A4(15B11EC413))-FF6/JOY"
+  },
+  {
+    "day": "THU",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B1-B9"
+    ],
+    "course": "HS431",
+    "room": "B9 (HS431)-TS8",
+    "faculty": [
+      "MB"
+    ],
+    "type": "Tutorial",
+    "raw": "TB1-B9 (HS431)-TS8/MB"
+  },
+  {
+    "day": "THU",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A3",
+      "A4"
+    ],
+    "course": "15B11EC611",
+    "room": "FF6",
+    "faculty": [
+      "AB"
+    ],
+    "type": "Lecture",
+    "raw": "LA3,A4(15B11EC611)-FF6/AB"
+  },
+  {
+    "day": "THU",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "CS224",
+    "room": "G3",
+    "faculty": [
+      "SHG"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16 (CS224)-G3/SHG"
+  },
+  {
+    "day": "THU",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A1",
+      "A2"
+    ],
+    "course": "15B11EC413",
+    "room": "G3",
+    "faculty": [
+      "VK"
+    ],
+    "type": "Lecture",
+    "raw": "LA1,A2(15B11EC413)-G3/VK"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A17",
+      "A18"
+    ],
+    "course": "15B11EC413",
+    "room": "G3",
+    "faculty": [
+      "JYO"
+    ],
+    "type": "Lecture",
+    "raw": "LA17,A18,(15B11EC413)-G3/JYO"
+  },
+  {
+    "day": "THU",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A15",
+      "A16"
+    ],
+    "course": "15B1NEC733",
+    "room": "FF7",
+    "faculty": [
+      "RS"
+    ],
+    "type": "Lecture",
+    "raw": "LA15,A16(15B1NEC733)-FF7/RS"
+  },
+  {
+    "day": "THU",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B1-B6"
+    ],
+    "course": "HS212",
+    "room": "B6 (HS212)-TS10",
+    "faculty": [
+      "BB"
+    ],
+    "type": "Tutorial",
+    "raw": "TB1-B6 (HS212)-TS10/BB"
+  },
+  {
+    "day": "THU",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A7",
+      "A8",
+      "A10"
+    ],
+    "course": "15B11EC611",
+    "room": "FF7",
+    "faculty": [
+      "PKY"
+    ],
+    "type": "Lecture",
+    "raw": "LA7,A8,A10(15B11EC611))-FF7/PKY"
+  },
+  {
+    "day": "THU",
+    "time": "4-4.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "25B12EC211",
+    "room": "FF6",
+    "faculty": [
+      "NSH"
+    ],
+    "type": "Lecture",
+    "raw": "LA(25B12EC211)-FF6/NSH"
+  },
+  {
+    "day": "THU",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "CS221",
+    "room": "G7",
+    "faculty": [
+      "MKT"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2 (CS221)-G7/MKT"
+  },
+  {
+    "day": "THU",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "CS222",
+    "room": "FF5",
+    "faculty": [
+      "SYN"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12 (CS222)-FF5/SYN"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "25B11EC311",
+    "room": "FF5",
+    "faculty": [
+      "MTO"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16(25B11EC311)-FF5/MTO"
+  },
+  {
+    "day": "THU",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B7-B16"
+    ],
+    "course": "HS212",
+    "room": "B16 (HS212)-TS11",
+    "faculty": [
+      "EKS"
+    ],
+    "type": "Tutorial",
+    "raw": "TB7-B16 (HS212)-TS11/EKS"
+  },
+  {
+    "day": "THU",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "25B11EC311",
+    "room": "G3",
+    "faculty": [
+      "SKA"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8(25B11EC311)-G3/SKA"
+  },
+  {
+    "day": "THU",
+    "time": "4-4.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "15B11EC313",
+    "room": "FF7",
+    "faculty": [
+      "MN"
+    ],
+    "type": "Lecture",
+    "raw": "LA(15B11EC313)-FF7/MN"
+  },
+  {
+    "day": "THU",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "CS222",
+    "room": "G1",
+    "faculty": [
+      "AYS"
+    ],
+    "type": "Lecture",
+    "raw": "LB3,B4 (CS222)-G1/AYS"
+  },
+  {
+    "day": "THU",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "BT312",
+    "room": "C3(BT312)-G4",
+    "faculty": [
+      "MOB",
+      "GMA"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(BT312)-G4/MOB,GMA"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "CS221",
+    "room": "G6",
+    "faculty": [
+      "MKT"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2 (CS221)-G6/MKT"
+  },
+  {
+    "day": "THU",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "CS221",
+    "room": "FF8",
+    "faculty": [
+      "KJ"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8 (CS221)-FF8/KJ"
+  },
+  {
+    "day": "THU",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B1-B5"
+    ],
+    "course": "HS332",
+    "room": "B5 (HS332)-TS12",
+    "faculty": [
+      "AMN"
+    ],
+    "type": "Tutorial",
+    "raw": "TB1-B5 (HS332)-TS12/AMN"
+  },
+  {
+    "day": "THU",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A15",
+      "A16"
+    ],
+    "course": "25B21EC213",
+    "room": "FF1",
+    "faculty": [
+      "KUL"
+    ],
+    "type": "Lecture",
+    "raw": "LA15,A16(25B21EC213))-FF1/KUL"
+  },
+  {
+    "day": "THU",
+    "time": "4-4.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "25B32EC211",
+    "room": "G3",
+    "faculty": [
+      "VD"
+    ],
+    "type": "Lecture",
+    "raw": "LA(25B32EC211)-G3/VD"
+  },
+  {
+    "day": "THU",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "CS221",
+    "room": "G6",
+    "faculty": [
+      "TKT"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16 (CS221)-G6/TKT"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "CS224",
+    "room": "FF8",
+    "faculty": [
+      "SHG"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6 (CS224)-FF8/SHG"
+  },
+  {
+    "day": "THU",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "CS222",
+    "room": "FF9",
+    "faculty": [
+      "AKM"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2 (CS222)-FF9/AKM"
+  },
+  {
+    "day": "THU",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B6-B16"
+    ],
+    "course": "HS332",
+    "room": "B16 (HS332)-TR302",
+    "faculty": [
+      "PRI"
+    ],
+    "type": "Tutorial",
+    "raw": "TB6-B16 (HS332)-TR302/PRI"
+  },
+  {
+    "day": "THU",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "CS221",
+    "room": "FF3",
+    "faculty": [
+      "TAJ"
+    ],
+    "type": "Lecture",
+    "raw": "LB3,B4 (CS221)-FF3/TAJ"
+  },
+  {
+    "day": "THU",
+    "time": "4-4.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": "20B12EC211",
+    "room": "G4",
+    "faculty": [
+      "MNA"
+    ],
+    "type": "Lecture",
+    "raw": "LA(20B12EC211)-G4/MNA"
+  },
+  {
+    "day": "THU",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "C3"
+    ],
+    "course": "BT411",
+    "room": "TS13",
+    "faculty": [
+      "APC",
+      "RD"
+    ],
+    "type": "Tutorial",
+    "raw": "TC3(BT411)-TS13/APC,RD"
+  },
+  {
+    "day": "THU",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "CS222",
+    "room": "G1",
+    "faculty": [
+      "IMR"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6 (CS222)-G1/IMR"
+  },
+  {
+    "day": "THU",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B10-B16",
+      "C1-C3",
+      "G1-G2"
+    ],
+    "course": "HS431",
+    "room": "B16, C1-C3, G1-G2 (HS431)-TR305",
+    "faculty": [
+      "PAC"
+    ],
+    "type": "Tutorial",
+    "raw": "TB10-B16, C1-C3, G1-G2 (HS431)-TR305/PAC"
+  },
+  {
+    "day": "THU",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "CS223",
+    "room": "FF4",
+    "faculty": [
+      "MSI"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6 (CS223)-FF4/MSI"
+  },
+  {
+    "day": "THU",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "25B11EC311",
+    "room": "FF1",
+    "faculty": [
+      "MTO"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16(25B11EC311)-FF1/MTO"
+  },
+  {
+    "day": "THU",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "C2"
+    ],
+    "course": "BT211",
+    "room": "TS16",
+    "faculty": [
+      "VGU",
+      "SBT"
+    ],
+    "type": "Tutorial",
+    "raw": "TC2(BT211)-TS16/VGU, SBT"
+  },
+  {
+    "day": "THU",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "CS222",
+    "room": "FF1",
+    "faculty": [
+      "AKM"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2 (CS222)-FF1/AKM"
+  },
+  {
+    "day": "THU",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "CS223",
+    "room": "FF1",
+    "faculty": [
+      "PSO"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16 (CS223)-FF1/PSO"
+  },
+  {
+    "day": "THU",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B"
+    ],
+    "course": "HS433",
+    "room": "TR307",
+    "faculty": [
+      "SDA"
+    ],
+    "type": "Tutorial",
+    "raw": "TB (HS433)-TR307/SDA"
+  },
+  {
+    "day": "THU",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "CS224",
+    "room": "G2",
+    "faculty": [
+      "SHG"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10 (CS224)-G2/SHG"
+  },
+  {
+    "day": "THU",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "CS224",
+    "room": "CR301",
+    "faculty": [
+      "DEP"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8 (CS224)-CR301/DEP"
+  },
+  {
+    "day": "THU",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "C1"
+    ],
+    "course": "BT312",
+    "room": "TS17",
+    "faculty": [
+      "MOB",
+      "GMA"
+    ],
+    "type": "Tutorial",
+    "raw": "TC1(BT312)-TS17/MOB, GMA"
+  },
+  {
+    "day": "THU",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B1-B6"
+    ],
+    "course": "HS435",
+    "room": "B6 (HS435)-FF5",
+    "faculty": [
+      "PSH"
+    ],
+    "type": "Tutorial",
+    "raw": "TB1-B6 (HS435)-FF5/PSH"
+  },
+  {
+    "day": "THU",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "CS222",
+    "room": "FF8",
+    "faculty": [
+      "SOS"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16 (CS222)-FF8/SOS"
+  },
+  {
+    "day": "THU",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "CS223",
+    "room": "FF3",
+    "faculty": [
+      "ATI"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2 (CS223)-FF3/ATI"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B11"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "KJ"
+    ],
+    "type": "Tutorial",
+    "raw": "TB11 (CS221) – TS13/KJ"
+  },
+  {
+    "day": "THU",
+    "time": "2-2.50 PM",
+    "batches": [
+      "BG"
+    ],
+    "course": "HS211",
+    "room": "FF6",
+    "faculty": [
+      "NAM"
+    ],
+    "type": "Tutorial",
+    "raw": "TBG(HS211)-FF6/NAM"
+  },
+  {
+    "day": "THU",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "CS223",
+    "room": "FF4",
+    "faculty": [
+      "KM"
+    ],
+    "type": "Lecture",
+    "raw": "LB3,B4 (CS223)-FF4/KM"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "G1"
+    ],
+    "course": "25B11MA231",
+    "room": "TS16",
+    "faculty": [
+      "GA"
+    ],
+    "type": "Tutorial",
+    "raw": "TG1(25B11MA231)-TS16/GA"
+  },
+  {
+    "day": "THU",
+    "time": "2-2.50 PM",
+    "batches": [
+      "BCG"
+    ],
+    "course": "24HS211",
+    "room": "FF7",
+    "faculty": [
+      "NIS"
+    ],
+    "type": "Tutorial",
+    "raw": "TBCG(24HS211)-FF7/NIS"
+  },
+  {
+    "day": "THU",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "CS223",
+    "room": "FF2",
+    "faculty": [
+      "MSI"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6 (CS223)-FF2/MSI"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A6"
+    ],
+    "course": "15B11EC411",
+    "room": "TS17",
+    "faculty": [
+      "HEM"
+    ],
+    "type": "Tutorial",
+    "raw": "TA6(15B11EC411)-TS17/HEM"
+  },
+  {
+    "day": "THU",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "B"
+    ],
+    "course": "CS242",
+    "room": "G3",
+    "faculty": [
+      "AYS"
+    ],
+    "type": "Lecture",
+    "raw": "LB(CS242)-G3/AYS"
+  },
+  {
+    "day": "THU",
+    "time": "2-2.50 PM",
+    "batches": [
+      "BC"
+    ],
+    "course": "HS412",
+    "room": "FF8",
+    "faculty": [
+      "NES"
+    ],
+    "type": "Tutorial",
+    "raw": "TBC(HS412)-FF8/NES"
+  },
+  {
+    "day": "THU",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A6"
+    ],
+    "course": "18B11EC212",
+    "room": "TS13",
+    "faculty": [
+      "VNS"
+    ],
+    "type": "Tutorial",
+    "raw": "TA6(18B11EC212)-TS13/VNS"
+  },
+  {
+    "day": "THU",
+    "time": "4-4.50 PM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "MA223",
+    "room": "FF8",
+    "faculty": [
+      "MSD"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2(MA223)-FF8/MSD"
+  },
+  {
+    "day": "THU",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B5",
+      "B9"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "RJM",
+      "DL",
+      "SHJ"
+    ],
+    "type": "Practical",
+    "raw": "PB5,B9(CS221) –CL14,15/ RJM, DL,SHJ"
+  },
+  {
+    "day": "THU",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A17"
+    ],
+    "course": "25B11MA231",
+    "room": "TS13",
+    "faculty": [
+      "MKB"
+    ],
+    "type": "Tutorial",
+    "raw": "TA17(25B11MA231)-TS13/MKB"
+  },
+  {
+    "day": "THU",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "B"
+    ],
+    "course": "CS243",
+    "room": "FF8",
+    "faculty": [
+      "NET"
+    ],
+    "type": "Lecture",
+    "raw": "LB(CS243)-FF8/NET"
+  },
+  {
+    "day": "THU",
+    "time": "2-2.50 PM",
+    "batches": [
+      "BCG"
+    ],
+    "course": "HS434",
+    "room": "FF9",
+    "faculty": [
+      "SKU"
+    ],
+    "type": "Tutorial",
+    "raw": "TBCG (HS434)-FF9/SKU"
+  },
+  {
+    "day": "THU",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A5"
+    ],
+    "course": "15B11EC411",
+    "room": "TS16",
+    "faculty": [
+      "HEM"
+    ],
+    "type": "Tutorial",
+    "raw": "TA5(15B11EC411)-TS16/HEM"
+  },
+  {
+    "day": "THU",
+    "time": "4-4.50 PM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "MA222",
+    "room": "FF9",
+    "faculty": [
+      "DCS"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2(MA222)-FF9/DCS"
+  },
+  {
+    "day": "THU",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B10"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "AMT",
+      "SHV"
+    ],
+    "type": "Practical",
+    "raw": "PB10 (CS221) – CL07/AMT,SHV"
+  },
+  {
+    "day": "THU",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A18"
+    ],
+    "course": "25B11MA231",
+    "room": "TS16",
+    "faculty": [
+      "GA"
+    ],
+    "type": "Tutorial",
+    "raw": "TA18(25B11MA231)-TS16/GA"
+  },
+  {
+    "day": "THU",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "M"
+    ],
+    "course": "24B12PH211",
+    "room": "G3",
+    "faculty": [
+      "SHIV"
+    ],
+    "type": "Lecture",
+    "raw": "LMinor(24B12PH211)-G3/SHIV"
+  },
+  {
+    "day": "THU",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B"
+    ],
+    "course": "HS213",
+    "room": "CS1",
+    "faculty": [
+      "YN"
+    ],
+    "type": "Tutorial",
+    "raw": "TB (HS213)-CS1/YN"
+  },
+  {
+    "day": "THU",
+    "time": "3-3.50 PM",
+    "batches": [
+      "G1"
+    ],
+    "course": "25B11MA232",
+    "room": "TS20",
+    "faculty": [
+      "HPT"
+    ],
+    "type": "Tutorial",
+    "raw": "TG1(25B11MA232)-TS20/HPT"
+  },
+  {
+    "day": "THU",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A6"
+    ],
+    "course": "15B11EC413",
+    "room": "TS13",
+    "faculty": [
+      "JYM"
+    ],
+    "type": "Tutorial",
+    "raw": "TA6(15B11EC413)-TS13/JYM"
+  },
+  {
+    "day": "THU",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A3"
+    ],
+    "course": "15B11EC471",
+    "room": "EDC",
+    "faculty": [
+      "JMO",
+      "VGO"
+    ],
+    "type": "Practical",
+    "raw": "PA3(15B11EC471)-EDC/JMO,VGO"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A5"
+    ],
+    "course": "15B17EC473",
+    "room": "SPL",
+    "faculty": [
+      "VKH",
+      "TA3"
+    ],
+    "type": "Practical",
+    "raw": "PA5(15B17EC473)-SPL/VKH,TA3"
+  },
+  {
+    "day": "THU",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A17"
+    ],
+    "course": "24B35EC212",
+    "room": "MODLAB",
+    "faculty": [
+      "JG",
+      "TA12"
+    ],
+    "type": "Practical",
+    "raw": "PA17(24B35EC212)-MODLAB/JG,TA12"
+  },
+  {
+    "day": "THU",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A4"
+    ],
+    "course": "18B15EC212",
+    "room": "ADC",
+    "faculty": [
+      "NEJ",
+      "AMR"
+    ],
+    "type": "Practical",
+    "raw": "PA4(18B15EC212)-ADC/NEJ,AMR"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B12"
+    ],
+    "course": "25B15EC311",
+    "room": "MODLAB",
+    "faculty": [
+      "RIG",
+      "TA9"
+    ],
+    "type": "Practical",
+    "raw": "PB12 (25B15EC311)-MODLAB/RIG,TA9"
+  },
+  {
+    "day": "THU",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A18"
+    ],
+    "course": "15B17EC473",
+    "room": "SPL",
+    "faculty": [
+      "JOY",
+      "TA14"
+    ],
+    "type": "Practical",
+    "raw": "PA18(15B17EC473)-SPL/JOY,TA14"
+  },
+  {
+    "day": "THU",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A16A1"
+    ],
+    "course": "24B25EC212",
+    "room": "FABLAB",
+    "faculty": [
+      "SHS",
+      "TA16"
+    ],
+    "type": "Practical",
+    "raw": "PA16A1(24B25EC212)-FABLAB/SHS,TA16"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "C3"
+    ],
+    "course": "BT372",
+    "room": "BT1",
+    "faculty": [
+      "SMG",
+      "GMA",
+      "NV",
+      "ANR",
+      "POC"
+    ],
+    "type": "Practical",
+    "raw": "PC3(BT372)-BT1/SMG,GMA,NV,ANR,POC"
+  },
+  {
+    "day": "THU",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A7"
+    ],
+    "course": "15B17EC473",
+    "room": "SPL",
+    "faculty": [
+      "MJ",
+      "TA7"
+    ],
+    "type": "Practical",
+    "raw": "PA7(15B17EC473)-SPL/MJ,TA7"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "C2"
+    ],
+    "course": "BT471",
+    "room": "BIOINFO",
+    "faculty": [
+      "NDH",
+      "CKJ",
+      "RD",
+      "APC"
+    ],
+    "type": "Practical",
+    "raw": "PC2(BT471)-BIOINFO/NDH, CKJ, RD,APC"
+  },
+  {
+    "day": "THU",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "CS221",
+    "room": "CL02, CL03",
+    "faculty": [
+      "TKT",
+      "VRN",
+      "MKT",
+      "IC"
+    ],
+    "type": "Practical",
+    "raw": "PB11,12(CS221)-CL02, CL03 /TKT,VRN, MKT, IC"
+  },
+  {
+    "day": "THU",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B6"
+    ],
+    "course": "25B15EC311",
+    "room": "JBSPL",
+    "faculty": [
+      "JAS",
+      "TA2"
+    ],
+    "type": "Practical",
+    "raw": "PB6(25B15EC311)-JBSPL/JAS,TA2"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "C1"
+    ],
+    "course": "BT474",
+    "room": "BT2-BT3",
+    "faculty": [
+      "SHM",
+      "MAS",
+      "DSH",
+      "KAR"
+    ],
+    "type": "Practical",
+    "raw": "PC1(BT474)-BT2-BT3/SHM,MAS,DSH,KAR"
+  },
+  {
+    "day": "THU",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "25B16CS211",
+    "room": "CL21,22,23",
+    "faculty": [
+      "BS",
+      "PAG",
+      "SMS"
+    ],
+    "type": "Practical",
+    "raw": "PB1,B2(25B16CS211)-CL21,22,23/BS,PAG,SMS"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "CS222",
+    "room": "CL05,06",
+    "faculty": [
+      "TRN",
+      "NEH",
+      "SUD"
+    ],
+    "type": "Practical",
+    "raw": "PB9,B10(CS222)-CL05,06/TRN,NEH,SUD"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B3"
+    ],
+    "course": "CS224",
+    "room": "CL10",
+    "faculty": [
+      "DEP",
+      "ALK"
+    ],
+    "type": "Practical",
+    "raw": "PB3(CS224)-CL10/DEP,ALK"
+  },
+  {
+    "day": "THU",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B4"
+    ],
+    "course": "CS224",
+    "room": "CL13",
+    "faculty": [
+      "SLK",
+      "PRK"
+    ],
+    "type": "Practical",
+    "raw": "PB4(CS224)-CL13/SLK,PRK"
+  },
+  {
+    "day": "FRI",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A1",
+      "A2"
+    ],
+    "course": "15B11EC411",
+    "room": "FF8",
+    "faculty": [
+      "JMO"
+    ],
+    "type": "Lecture",
+    "raw": "LA1,A2(15B11EC411)-FF8/JMO"
+  },
+  {
+    "day": "FRI",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A1",
+      "A2"
+    ],
+    "course": "15B11EC611",
+    "room": "FF7",
+    "faculty": [
+      "AB"
+    ],
+    "type": "Lecture",
+    "raw": "LA1,A2(15B11EC611)-FF7/AB"
+  },
+  {
+    "day": "FRI",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A7",
+      "A8",
+      "A10"
+    ],
+    "course": "15B11EC411",
+    "room": "FF6",
+    "faculty": [
+      "SLM"
+    ],
+    "type": "Lecture",
+    "raw": "LA7,A8,A10(15B11EC411))-FF6/SLM"
+  },
+  {
+    "day": "FRI",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A7",
+      "A8",
+      "A10"
+    ],
+    "course": "18B11EC212",
+    "room": "FF6",
+    "faculty": [
+      "AMR"
+    ],
+    "type": "Lecture",
+    "raw": "LA7,A8,A10(18B11EC212)-FF6/AMR"
+  },
+  {
+    "day": "FRI",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "CS223",
+    "room": "FF6",
+    "faculty": [
+      "PSO"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8 (CS223)-FF6/PSO"
+  },
+  {
+    "day": "FRI",
+    "time": "4-4.50 PM",
+    "batches": [
+      "A7",
+      "A8",
+      "A10"
+    ],
+    "course": "15B11EC611",
+    "room": "FF6",
+    "faculty": [
+      "PKY"
+    ],
+    "type": "Lecture",
+    "raw": "LA7,A8,A10(15B11EC611))-FF6/PKY"
+  },
+  {
+    "day": "FRI",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "25B11EC311",
+    "room": "FF9",
+    "faculty": [
+      "JYM"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12(25B11EC311)-FF9/JYM"
+  },
+  {
+    "day": "FRI",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "25B11EC311",
+    "room": "G3",
+    "faculty": [
+      "SKA"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8(25B11EC311)-G3/SKA"
+  },
+  {
+    "day": "FRI",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "CS222",
+    "room": "FF8",
+    "faculty": [
+      "AKM"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2 (CS222)-FF8/AKM"
+  },
+  {
+    "day": "FRI",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A3",
+      "A4"
+    ],
+    "course": "15B11EC413",
+    "room": "FF7",
+    "faculty": [
+      "JOY"
+    ],
+    "type": "Lecture",
+    "raw": "LA3,A4(15B11EC413))-FF7/JOY"
+  },
+  {
+    "day": "FRI",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A15",
+      "A16"
+    ],
+    "course": "15B1NEC733",
+    "room": "FF7",
+    "faculty": [
+      "RS"
+    ],
+    "type": "Lecture",
+    "raw": "LA15,A16(15B1NEC733)-FF7/RS"
+  },
+  {
+    "day": "FRI",
+    "time": "4-4.50 PM",
+    "batches": [
+      "A1",
+      "A2"
+    ],
+    "course": "15B11EC413",
+    "room": "FF7",
+    "faculty": [
+      "VK"
+    ],
+    "type": "Lecture",
+    "raw": "LA1,A2(15B11EC413)-FF7/VK"
+  },
+  {
+    "day": "FRI",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "CS222",
+    "room": "FF4",
+    "faculty": [
+      "SOS"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16 (CS222)-FF4/SOS"
+  },
+  {
+    "day": "FRI",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A5",
+      "A6"
+    ],
+    "course": "15B11EC611",
+    "room": "G4",
+    "faculty": [
+      "RRP"
+    ],
+    "type": "Lecture",
+    "raw": "LA5,A6(15B11EC611))-G4/RRP"
+  },
+  {
+    "day": "FRI",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "CS222",
+    "room": "FF9",
+    "faculty": [
+      "AYS"
+    ],
+    "type": "Lecture",
+    "raw": "LB3,B4 (CS222)-FF9/AYS"
+  },
+  {
+    "day": "FRI",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "CS224",
+    "room": "G3",
+    "faculty": [
+      "SHG"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2 (CS224)-G3/SHG"
+  },
+  {
+    "day": "FRI",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "CS223",
+    "room": "G6",
+    "faculty": [
+      "PSO"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8 (CS223)-G6/PSO"
+  },
+  {
+    "day": "FRI",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "CS223",
+    "room": "FF8",
+    "faculty": [
+      "RJM"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10 (CS223)-FF8/RJM"
+  },
+  {
+    "day": "FRI",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "25B11EC311",
+    "room": "G3",
+    "faculty": [
+      "MO"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6(25B11EC311)-G3/MO"
+  },
+  {
+    "day": "FRI",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "CS221",
+    "room": "G6",
+    "faculty": [
+      "MKT"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2 (CS221)-G6/MKT"
+  },
+  {
+    "day": "FRI",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A3",
+      "A4"
+    ],
+    "course": "18B11EC212",
+    "room": "G3",
+    "faculty": [
+      "RB"
+    ],
+    "type": "Lecture",
+    "raw": "LA3,A4(18B11EC212)-G3/RB"
+  },
+  {
+    "day": "FRI",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "CS224",
+    "room": "CR301",
+    "faculty": [
+      "DEP"
+    ],
+    "type": "Lecture",
+    "raw": "LB3,B4 (CS224)-CR301/DEP"
+  },
+  {
+    "day": "FRI",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "CS223",
+    "room": "G7",
+    "faculty": [
+      "RJM"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10 (CS223)-G7/RJM"
+  },
+  {
+    "day": "FRI",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "CS223",
+    "room": "FF9",
+    "faculty": [
+      "ATI"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12 (CS223)-FF9/ATI"
+  },
+  {
+    "day": "FRI",
+    "time": "4-4.50 PM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "19B13BT211",
+    "room": "G4",
+    "faculty": [
+      "MOB"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2(19B13BT211) - G4/MOB"
+  },
+  {
+    "day": "FRI",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "CS221",
+    "room": "G7",
+    "faculty": [
+      "TKT"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16 (CS221)-G7/TKT"
+  },
+  {
+    "day": "FRI",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "CS222",
+    "room": "G4",
+    "faculty": [
+      "IMR"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6 (CS222)-G4/IMR"
+  },
+  {
+    "day": "FRI",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "BT414",
+    "room": "C3(BT414)-G4",
+    "faculty": [
+      "RAC",
+      "SHM"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(BT414)-G4/RAC, SHM"
+  },
+  {
+    "day": "FRI",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "CS223",
+    "room": "G9",
+    "faculty": [
+      "ATI"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12 (CS223)-G9/ATI"
+  },
+  {
+    "day": "FRI",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "CS222",
+    "room": "FF8",
+    "faculty": [
+      "AKM"
+    ],
+    "type": "Lecture",
+    "raw": "LG1,G2 (CS222)-FF8/AKM"
+  },
+  {
+    "day": "FRI",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A2"
+    ],
+    "course": "18B11EC212",
+    "room": "TS13",
+    "faculty": [
+      "VNS"
+    ],
+    "type": "Tutorial",
+    "raw": "TA2(18B11EC212)-TS13/VNS"
+  },
+  {
+    "day": "FRI",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "CS223",
+    "room": "FF9",
+    "faculty": [
+      "ATI"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12 (CS223)-FF9/ATI"
+  },
+  {
+    "day": "FRI",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "C1-C3"
+    ],
+    "course": "BT411",
+    "room": "C3(BT411)-G8",
+    "faculty": [
+      "NDH",
+      "RD"
+    ],
+    "type": "Lecture",
+    "raw": "LC1-C3(BT411)-G8/NDH, RD"
+  },
+  {
+    "day": "FRI",
+    "time": "11-11.50 AM",
+    "batches": [
+      "G2"
+    ],
+    "course": "25B11MA231",
+    "room": "TS13",
+    "faculty": [
+      "GA"
+    ],
+    "type": "Tutorial",
+    "raw": "TG2(25B11MA231)-TS13/GA"
+  },
+  {
+    "day": "FRI",
+    "time": "11-11.50 AM",
+    "batches": [
+      "C1"
+    ],
+    "course": "BT411",
+    "room": "TS16",
+    "faculty": [
+      "APC",
+      "RD"
+    ],
+    "type": "Tutorial",
+    "raw": "TC1(BT411)-TS16/APC,RD"
+  },
+  {
+    "day": "FRI",
+    "time": "11-11.50 AM",
+    "batches": [
+      "C3"
+    ],
+    "course": "BT211",
+    "room": "TS17",
+    "faculty": [
+      "VGU",
+      "SBT"
+    ],
+    "type": "Tutorial",
+    "raw": "TC3(BT211)-TS17/VGU, SBT"
+  },
+  {
+    "day": "FRI",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A1"
+    ],
+    "course": "15B11EC411",
+    "room": "TS13",
+    "faculty": [
+      "RRJ"
+    ],
+    "type": "Tutorial",
+    "raw": "TA1(15B11EC411)-TS13/RRJ"
+  },
+  {
+    "day": "FRI",
+    "time": "11-11.50 AM",
+    "batches": [
+      "C2"
+    ],
+    "course": "BT312",
+    "room": "TS20",
+    "faculty": [
+      "MOB",
+      "GMA"
+    ],
+    "type": "Tutorial",
+    "raw": "TC2(BT312)-TS20/MOB, GMA"
+  },
+  {
+    "day": "FRI",
+    "time": "2-2.50 PM",
+    "batches": [
+      "A3",
+      "A4"
+    ],
+    "course": "15B11EC411",
+    "room": "FF6",
+    "faculty": [
+      "AJK"
+    ],
+    "type": "Lecture",
+    "raw": "LA3,A4(15B11EC411))-FF6/AJK"
+  },
+  {
+    "day": "FRI",
+    "time": "3-3.50 PM",
+    "batches": [
+      "G1"
+    ],
+    "course": "25B15MA233",
+    "room": "MCL421",
+    "faculty": [
+      "RSA"
+    ],
+    "type": "Practical",
+    "raw": "PG1(25B15MA233)-MCL421/RSA"
+  },
+  {
+    "day": "FRI",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A2"
+    ],
+    "course": "15B11EC471",
+    "room": "EDC",
+    "faculty": [
+      "RRP",
+      "NTN"
+    ],
+    "type": "Practical",
+    "raw": "PA2(15B11EC471)-EDC/RRP,NTN"
+  },
+  {
+    "day": "FRI",
+    "time": "2-2.50 PM",
+    "batches": [
+      "A15",
+      "A16"
+    ],
+    "course": "24B21EC212",
+    "room": "G3",
+    "faculty": [
+      "SHI"
+    ],
+    "type": "Lecture",
+    "raw": "LA15,A16(24B21EC212)-G3/SHI"
+  },
+  {
+    "day": "FRI",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A5"
+    ],
+    "course": "18B15EC212",
+    "room": "ADC",
+    "faculty": [
+      "RB",
+      "SMK"
+    ],
+    "type": "Practical",
+    "raw": "PA5(18B15EC212)-ADC/RB,SMK"
+  },
+  {
+    "day": "FRI",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A16"
+    ],
+    "course": "25B25EC212",
+    "room": "ADE",
+    "faculty": [
+      "SIM",
+      "BVI"
+    ],
+    "type": "Practical",
+    "raw": "PA16(25B25EC212)-ADE/SIM,BVI"
+  },
+  {
+    "day": "FRI",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A6"
+    ],
+    "course": "15B11EC471",
+    "room": "EDC",
+    "faculty": [
+      "RRP",
+      "NTN"
+    ],
+    "type": "Practical",
+    "raw": "PA6(15B11EC471)-EDC/RRP,NTN"
+  },
+  {
+    "day": "FRI",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A4"
+    ],
+    "course": "15B11EC471",
+    "room": "EDC",
+    "faculty": [
+      "RRJ",
+      "NHI"
+    ],
+    "type": "Practical",
+    "raw": "PA4(15B11EC471)-EDC/RRJ,NHI"
+  },
+  {
+    "day": "FRI",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B8"
+    ],
+    "course": "25B15EC311",
+    "room": "JBSPL",
+    "faculty": [
+      "JYM",
+      "TA11"
+    ],
+    "type": "Practical",
+    "raw": "PB8(25B15EC311)-JBSPL/JYM,TA11"
+  },
+  {
+    "day": "FRI",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A18"
+    ],
+    "course": "15B17EC671",
+    "room": "ACL",
+    "faculty": [
+      "JG",
+      "MTO"
+    ],
+    "type": "Practical",
+    "raw": "PA18(15B17EC671)-ACL/JG,MTO"
+  },
+  {
+    "day": "FRI",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A8"
+    ],
+    "course": "15B17EC473",
+    "room": "SPL",
+    "faculty": [
+      "MJ",
+      "TA7"
+    ],
+    "type": "Practical",
+    "raw": "PA8(15B17EC473)-SPL/MJ,TA7"
+  },
+  {
+    "day": "FRI",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B9",
+      "B10",
+      "B11",
+      "B12",
+      "B14",
+      "B16"
+    ],
+    "course": "25B16CS211",
+    "room": "CL21,22,23,24",
+    "faculty": [
+      "BS",
+      "MSI",
+      "PAG",
+      "NSA",
+      "SMS"
+    ],
+    "type": "Practical",
+    "raw": "PB9,B10,B11,B12,B14,B16(25B16CS211)-CL21,22,23,24/BS,MSI,PAG,NSA,SMS"
+  },
+  {
+    "day": "FRI",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A3"
+    ],
+    "course": "15B17EC473",
+    "room": "SPL",
+    "faculty": [
+      "ABU",
+      "TA7"
+    ],
+    "type": "Practical",
+    "raw": "PA3(15B17EC473)-SPL/ABU,TA7"
+  },
+  {
+    "day": "FRI",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A10"
+    ],
+    "course": "18B15EC212",
+    "room": "ADC",
+    "faculty": [
+      "VNS",
+      "RB"
+    ],
+    "type": "Practical",
+    "raw": "PA10(18B15EC212)-ADC/VNS,RB"
+  },
+  {
+    "day": "FRI",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B7"
+    ],
+    "course": "CS221",
+    "room": "CL07",
+    "faculty": [
+      "VRN",
+      "AST"
+    ],
+    "type": "Practical",
+    "raw": "PB7(CS221)-CL07/VRN,AST"
+  },
+  {
+    "day": "FRI",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B4"
+    ],
+    "course": "25B15EC311",
+    "room": "MODLAB",
+    "faculty": [
+      "RIG",
+      "TA9"
+    ],
+    "type": "Practical",
+    "raw": "PB4(25B15EC311)-MODLAB/RIG,TA9"
+  },
+  {
+    "day": "FRI",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A16A2"
+    ],
+    "course": "24B25EC212",
+    "room": "FABLAB",
+    "faculty": [
+      "SHS",
+      "TA5"
+    ],
+    "type": "Practical",
+    "raw": "PA16A2(24B25EC212)-FABLAB/SHS,TA5"
+  },
+  {
+    "day": "FRI",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A15"
+    ],
+    "course": "24B25EC213",
+    "room": "SPL",
+    "faculty": [
+      "MN",
+      "GK"
+    ],
+    "type": "Practical",
+    "raw": "PA15(24B25EC213)-SPL/MN,GK"
+  },
+  {
+    "day": "FRI",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B10"
+    ],
+    "course": "25B15EC311",
+    "room": "JBSPL",
+    "faculty": [
+      "JAS",
+      "TA2"
+    ],
+    "type": "Practical",
+    "raw": "PB10(25B15EC311)-JBSPL/JAS,TA2"
+  },
+  {
+    "day": "FRI",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B16"
+    ],
+    "course": "CS221",
+    "room": "CL304",
+    "faculty": [
+      "SHJ",
+      "TKT"
+    ],
+    "type": "Practical",
+    "raw": "PB16(CS221)-CL304/SHJ,TKT"
+  },
+  {
+    "day": "FRI",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "CS221",
+    "room": "CL11,12",
+    "faculty": [
+      "AST",
+      "KJ",
+      "TAJ"
+    ],
+    "type": "Practical",
+    "raw": "PB1,B2(CS221)-CL11,12/AST,KJ,TAJ"
+  },
+  {
+    "day": "FRI",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B14"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "SHJ"
+    ],
+    "type": "Tutorial",
+    "raw": "TB14 (CS221) –TS13 /SHJ"
+  },
+  {
+    "day": "FRI",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B3",
+      "B14"
+    ],
+    "course": "CS221",
+    "room": "CL02,03",
+    "faculty": [
+      "IC",
+      "TRN",
+      "KJ",
+      "MKT"
+    ],
+    "type": "Practical",
+    "raw": "PB3,B14(CS221)-CL02,03/IC,TRN,KJ,MKT"
+  },
+  {
+    "day": "FRI",
+    "time": "3-3.50 PM",
+    "batches": [
+      "G1",
+      "G2"
+    ],
+    "course": "CS221",
+    "room": "CL10,11",
+    "faculty": [
+      "VRN",
+      "SHV",
+      "RJM"
+    ],
+    "type": "Practical",
+    "raw": "PG1,G2(CS221)-CL10,11/VRN,SHV,RJM"
+  },
+  {
+    "day": "FRI",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B4"
+    ],
+    "course": "CS221",
+    "room": "CL02",
+    "faculty": [
+      "RJM",
+      "TRN"
+    ],
+    "type": "Practical",
+    "raw": "PB4(CS221)-CL02/RJM,TRN"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "19B13BT211",
+    "room": "FF8",
+    "faculty": [
+      "EKT"
+    ],
+    "type": "Lecture",
+    "raw": "LB3,B4(19B13BT211) - FF8/EKT"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A7",
+      "A8",
+      "A10"
+    ],
+    "course": "15B11EC413",
+    "room": "FF6",
+    "faculty": [
+      "MJ"
+    ],
+    "type": "Lecture",
+    "raw": "LA7,A8,A10(15B11EC413)-FF6/MJ"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A7",
+      "A8",
+      "A10"
+    ],
+    "course": "15B11EC411",
+    "room": "FF6",
+    "faculty": [
+      "SLM"
+    ],
+    "type": "Lecture",
+    "raw": "LA7,A8,A10(15B11EC411))-FF6/SLM"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "19B13BT211",
+    "room": "FF9",
+    "faculty": [
+      "POC"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6(19B13BT211) - FF9/POC"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A15",
+      "A16"
+    ],
+    "course": "24B21EC212",
+    "room": "FF7",
+    "faculty": [
+      "SHI"
+    ],
+    "type": "Lecture",
+    "raw": "LA15,A16(24B21EC212)-FF7/SHI"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A15",
+      "A16"
+    ],
+    "course": "25B21EC213",
+    "room": "FF7",
+    "faculty": [
+      "KUL"
+    ],
+    "type": "Lecture",
+    "raw": "LA15,A16(25B21EC213)-FF7/KUL"
+  },
+  {
+    "day": "SAT",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A5",
+      "A6"
+    ],
+    "course": "15B11EC411",
+    "room": "FF6",
+    "faculty": [
+      "HEM"
+    ],
+    "type": "Lecture",
+    "raw": "LA5,A6(15B11EC411)-FF6/HEM"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "19B13BT211",
+    "room": "G6",
+    "faculty": [
+      "AKV",
+      "KS"
+    ],
+    "type": "Lecture",
+    "raw": "LB7,B8(19B13BT211) - G6/AKV, KS"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "25B11EC311",
+    "room": "G3",
+    "faculty": [
+      "VGO"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10(25B11EC311)-G3/VGO"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "CS222",
+    "room": "FF8",
+    "faculty": [
+      "IMR"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6 (CS222)-FF8/IMR"
+  },
+  {
+    "day": "SAT",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B9"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "DL"
+    ],
+    "type": "Tutorial",
+    "raw": "TB9 (CS221) – CS10/DL"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "19B13BT211",
+    "room": "G8",
+    "faculty": [
+      "ANS"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10(19B13BT211) -G8/ANS"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "CS223",
+    "room": "FF8",
+    "faculty": [
+      "ATI"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2 (CS223)-FF8/ATI"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B1",
+      "B2"
+    ],
+    "course": "CS222",
+    "room": "G3",
+    "faculty": [
+      "AKM"
+    ],
+    "type": "Lecture",
+    "raw": "LB1,B2 (CS222)-G3/AKM"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "19B13BT211",
+    "room": "G9",
+    "faculty": [
+      "GMA"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12(19B13BT211) - G9/GMA"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "CS223",
+    "room": "FF9",
+    "faculty": [
+      "KM"
+    ],
+    "type": "Lecture",
+    "raw": "LB3,B4 (CS223)-FF9/KM"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B3",
+      "B4"
+    ],
+    "course": "CS222",
+    "room": "G6",
+    "faculty": [
+      "AYS"
+    ],
+    "type": "Lecture",
+    "raw": "LB3,B4 (CS222)-G6/AYS"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "19B13BT211",
+    "room": "CR325",
+    "faculty": [
+      "SBT",
+      "KAR"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16(19B13BT211) -CR325/SBT,KAR"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "CS223",
+    "room": "G4",
+    "faculty": [
+      "MSI"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6 (CS223)-G4/MSI"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B9",
+      "B10"
+    ],
+    "course": "CS221",
+    "room": "FF9",
+    "faculty": [
+      "DL"
+    ],
+    "type": "Lecture",
+    "raw": "LB9,B10 (CS221)-FF9/DL"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A15",
+      "A16"
+    ],
+    "course": "25B21EC214",
+    "room": "CR325",
+    "faculty": [
+      "NEJ"
+    ],
+    "type": "Lecture",
+    "raw": "LA15,A16(25B21EC214))-CR325/NEJ"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B14",
+      "B16"
+    ],
+    "course": "CS223",
+    "room": "G6",
+    "faculty": [
+      "PSO"
+    ],
+    "type": "Lecture",
+    "raw": "LB14,B16 (CS223)-G6/PSO"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "B12"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "TRN"
+    ],
+    "type": "Tutorial",
+    "raw": "TB12 (CS221) – TS13/TRN"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B11",
+      "B12"
+    ],
+    "course": "CS222",
+    "room": "G8",
+    "faculty": [
+      "SYN"
+    ],
+    "type": "Lecture",
+    "raw": "LB11,B12 (CS222)-G8/SYN"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A18"
+    ],
+    "course": "15B11EC413",
+    "room": "TS13",
+    "faculty": [
+      "JYM"
+    ],
+    "type": "Tutorial",
+    "raw": "TA18(15B11EC413)-TS13/JYM"
+  },
+  {
+    "day": "SAT",
+    "time": "12 NOON-12.50 PM",
+    "batches": [],
+    "course": "17BT212",
+    "room": "62(17BT212)-BIOINFO",
+    "faculty": [
+      "NDH"
+    ],
+    "type": "Practical",
+    "raw": "Pminor-62(17BT212)-BIOINFO/NDH"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "A17"
+    ],
+    "course": "15B11EC413",
+    "room": "TS16",
+    "faculty": [
+      "JYO"
+    ],
+    "type": "Tutorial",
+    "raw": "TA17(15B11EC413)-TS16/JYO"
+  },
+  {
+    "day": "SAT",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "M"
+    ],
+    "course": "24B16PH211",
+    "room": "128(24B16PH211)-AP",
+    "faculty": [],
+    "type": "Practical",
+    "raw": "PMinor-128(24B16PH211)-AP"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "G2"
+    ],
+    "course": "CS221",
+    "room": null,
+    "faculty": [
+      "TRN"
+    ],
+    "type": "Tutorial",
+    "raw": "TG2 (CS221) – TS11/TRN"
+  },
+  {
+    "day": "SAT",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "M"
+    ],
+    "course": "24B16PH211",
+    "room": "62(24B16PH211)-SND",
+    "faculty": [],
+    "type": "Practical",
+    "raw": "PMinor-62(24B16PH211)-SND"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A1"
+    ],
+    "course": "15B17EC473",
+    "room": "SPL",
+    "faculty": [
+      "VKH",
+      "VK"
+    ],
+    "type": "Practical",
+    "raw": "PA1(15B17EC473)-SPL/VKH,VK"
+  },
+  {
+    "day": "SAT",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "A15A3"
+    ],
+    "course": "24B25EC212",
+    "room": "FABLAB",
+    "faculty": [
+      "SHI",
+      "TA5"
+    ],
+    "type": "Practical",
+    "raw": "PA15A3(24B25EC212)-FABLAB/SHI,TA5"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A2"
+    ],
+    "course": "18B15EC212",
+    "room": "ADC",
+    "faculty": [
+      "BHG",
+      "AMR"
+    ],
+    "type": "Practical",
+    "raw": "PA2(18B15EC212)-ADC/BHG,AMR"
+  },
+  {
+    "day": "SAT",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B7",
+      "B8"
+    ],
+    "course": "25B16CS211",
+    "room": "CL05,06",
+    "faculty": [
+      "MSI",
+      "SHG"
+    ],
+    "type": "Practical",
+    "raw": "PB7,B8(25B16CS211)-CL05,06/MSI,SHG"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A17"
+    ],
+    "course": "15B17EC671",
+    "room": "ACL",
+    "faculty": [
+      "ALJ",
+      "MTO"
+    ],
+    "type": "Practical",
+    "raw": "PA17(15B17EC671)-ACL/ALJ,MTO"
+  },
+  {
+    "day": "SAT",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B"
+    ],
+    "course": "25B16CS212",
+    "room": "CL02,03,04",
+    "faculty": [
+      "APJ",
+      "SHO"
+    ],
+    "type": "Practical",
+    "raw": "PB(25B16CS212)-CL02,03,04/APJ,SHO"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "A18"
+    ],
+    "course": "24B35EC212",
+    "room": "MODLAB",
+    "faculty": [
+      "JG",
+      "TA12"
+    ],
+    "type": "Practical",
+    "raw": "PA18(24B35EC212)-MODLAB/JG,TA12"
+  },
+  {
+    "day": "SAT",
+    "time": "12 NOON-12.50 PM",
+    "batches": [
+      "B"
+    ],
+    "course": "25B16CS213",
+    "room": "CL10",
+    "faculty": [
+      "HN",
+      "VIK"
+    ],
+    "type": "Practical",
+    "raw": "PB(25B16CS213)-CL10/HN,VIK"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B7"
+    ],
+    "course": "25B15EC311",
+    "room": "JBSPL",
+    "faculty": [
+      "JYM",
+      "TA11"
+    ],
+    "type": "Practical",
+    "raw": "PB7(25B15EC311)-JBSPL/JYM,TA11"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "B8"
+    ],
+    "course": "CS221",
+    "room": "CL02",
+    "faculty": [
+      "TAJ",
+      "VRN"
+    ],
+    "type": "Practical",
+    "raw": "PB8(CS221)-CL02/TAJ,VRN"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "C1"
+    ],
+    "course": "BT372",
+    "room": "BT1",
+    "faculty": [
+      "SMG",
+      "GMA",
+      "NV",
+      "ANR",
+      "POC"
+    ],
+    "type": "Practical",
+    "raw": "PC1(BT372)-BT1/SMG,GMA,NV,ANR,POC"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "C3"
+    ],
+    "course": "BT471",
+    "room": "BIOINFO",
+    "faculty": [
+      "NDH",
+      "CKJ",
+      "RD",
+      "APC"
+    ],
+    "type": "Practical",
+    "raw": "PC3(BT471)-BIOINFO/NDH, CKJ, RD,APC"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "C2"
+    ],
+    "course": "BT474",
+    "room": "BT2-BT3",
+    "faculty": [
+      "SHM",
+      "MAS",
+      "DSH",
+      "KAR"
+    ],
+    "type": "Practical",
+    "raw": "PC2(BT474)-BT2-BT3/SHM,MAS,DSH,KAR"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "G2"
+    ],
+    "course": "25B15MA233",
+    "room": "MCL421",
+    "faculty": [
+      "MPA"
+    ],
+    "type": "Practical",
+    "raw": "PG2(25B15MA233)-MCL421/MPA"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "S"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Short Name"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "C"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Course Code"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "C"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Course Name"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "S"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Short Name"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "C"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Course Code"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "C"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Course Name"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "HSS E"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "HSS Elective 1"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "25B32EC211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B32EC211"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "25B32EC211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B32EC211"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "I"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Introduction to Artificial Intelligence with Python"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "19B13BT211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "19B13BT211"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "E"
+    ],
+    "course": "CSE/IT 62",
+    "room": null,
+    "faculty": [
+      "IT 62)"
+    ],
+    "type": "Lecture",
+    "raw": "Environmental Studies (CSE/IT 62)"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "25B21EC212"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B21EC212"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "25B21EC212"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B21EC212"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "A"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Analog Electronic Circuits"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "CS221"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "CS221"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "24B11CS221"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "24B11CS221"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "D"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Design and Analysis of Algorithms"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "25B21EC213"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B21EC213"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "25B21EC213"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B21EC213"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "D"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Discrete Signal Processing"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "CS222"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "CS222"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "24B11CS222"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "24B11CS222"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Artificial Intelligence and Machine Learning"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "25B21EC214"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B21EC214"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "25B21EC214"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B21EC214"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "C"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Communication Engineering"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "CS223"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "CS223"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "24B11CS223"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "24B11CS223"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "S"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Software Engineering"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "24B21EC212"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "24B21EC212"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "24B21EC212"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "24B21EC212"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "I"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Introduction to Microfabrication Technology"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "CS224"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "CS224"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "24B15CS224"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "24B15CS224"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "C"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Competitive Programming Lab"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "15B1NEC733"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B1NEC733"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "15B1NEC733"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B1NEC733"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "F"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Fundamentals of Embedded Systems"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "DE1CS211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "DE1CS211"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "25B12CS211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B12CS211"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "F"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Fundamentals of Data Analytics"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "25B11EC311"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B11EC311"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "25B11EC311"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B11EC311"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "D"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Digital Systems and Computer Organisation"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "DE2CS212"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "DE2CS212"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "25B12CS212"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B12CS212"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "F"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Fundamentals of Mobile Application Development"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "DE3CS213"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "DE3CS213"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "25B12CS213"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B12CS213"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "F"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Fundamentals of Smart Systems and IoT"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "CS243"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "CS243"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "24B11CS243"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "24B11CS243"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "D"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Data Science & Data Analytics: Theory & Practice"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "BT414"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "BT414"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "15B11BT414"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B11BT414"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "I"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Immunology"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "CS242"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "CS242"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "24B11CS242"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "24B11CS242"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Artificial Intelligence and Machine Learning: Theory & Practice"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "BT211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "BT211"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "24B11BT211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "24B11BT211"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "M"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Molecular biology"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "BT411"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "BT411"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "15B11BT411"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B11BT411"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "I"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Introduction to Bioinformatics"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "18B11EC212"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "18B11EC212"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "18B11EC212"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "18B11EC212"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Analog and Digital Communication"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "BT312"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "BT312"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "15B11BT312"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B11BT312"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "M"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Microbiology"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "15B11EC411"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B11EC411"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "15B11EC411"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B11EC411"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "A"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Analogue Electronics"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "BT372"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "BT372"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "15B17BT372"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B17BT372"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "M"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Microbiology Lab"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "15B11EC413"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B11EC413"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "15B11EC413"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B11EC413"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "D"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Digital Signal Processing"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "BT471"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "BT471"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "15B17BT471"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B17BT471"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "B"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Bioinformatics Lab"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "15B11EC611"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B11EC611"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "15B11EC611"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B11EC611"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Tutorial",
+    "raw": "Telecommunication Networks"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "BT474"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "BT474"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "15B17BT474"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B17BT474"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "I"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Immunology Lab"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "15B11EC313"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B11EC313"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "15B11EC313"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "15B11EC313"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "M"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Microprocessors and Microcontrollers"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "12BT311"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "12BT311"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "21B12BT311"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "21B12BT311"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Practical",
+    "raw": "Phenomics"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "17B1NEC735"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "17B1NEC735"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "17B1NEC735"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "17B1NEC735"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "I"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Information Theory and Applications"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "12BT211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "12BT211"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "25B12BT211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B12BT211"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Practical",
+    "raw": "Python for Biologists"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "25B12EC211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B12EC211"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "25B12EC211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B12EC211"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "E"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Electronic Instrumentation  and Measurement Techniques"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "13BT211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "13BT211"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "19B13BT211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "19B13BT211"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "E"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Environmental Studies"
+  },
+  {
+    "day": "SAT",
+    "time": "9 -9.50 AM",
+    "batches": [
+      "20B12EC211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "20B12EC211"
+  },
+  {
+    "day": "SAT",
+    "time": "10 -10.50 AM",
+    "batches": [
+      "20B12EC211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "20B12EC211"
+  },
+  {
+    "day": "SAT",
+    "time": "11-11.50 AM",
+    "batches": [
+      "I"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Introduction to Digital Image and Video Processing"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "11BT211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "11BT211"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "25B11BT211"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B11BT211"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "S"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Sequence Informatics and Phylogenetics"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "17BT212"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "17BT212"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "25B17BT212"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B17BT212"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "BL"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Practical",
+    "raw": "PBL on Bioinformatics"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "MA222"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "MA222"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "25B12MA222"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B12MA222"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "F"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Fuzzy Sets, Logic and Applications"
+  },
+  {
+    "day": "SAT",
+    "time": "1- 1.50 PM",
+    "batches": [
+      "MA223"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "MA223"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "25B12MA223"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B12MA223"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Tutorial",
+    "raw": "Time Series Analysis and Forecasting"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "25B11MA231"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B11MA231"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Tutorial",
+    "raw": "Theory and Applications of Linear Algebra"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "25B11MA232"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B11MA232"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "N"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Numerical Methods and Computations Lab"
+  },
+  {
+    "day": "SAT",
+    "time": "2-2.50 PM",
+    "batches": [
+      "25B11MA233"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "25B11MA233"
+  },
+  {
+    "day": "SAT",
+    "time": "3-3.50 PM",
+    "batches": [
+      "N"
+    ],
+    "course": null,
+    "room": null,
+    "faculty": [],
+    "type": "Lecture",
+    "raw": "Numerical Methods and Computations"
+  }
+]

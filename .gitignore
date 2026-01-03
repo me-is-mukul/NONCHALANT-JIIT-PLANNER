@@ -1,0 +1,73 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Package manager locks (optional: keep ONE if you want reproducible builds)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Cache
+.cache/
+# Vite
+.vite/
+
+# Next.js
+.next/
+out/
+
+# CRA
+/build
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
+.venv/
+ENV/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+# Coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Certificates
+*.pem
+*.crt
