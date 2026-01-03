@@ -13,7 +13,7 @@ export default function TimelineItem({ entry }) {
                     ? "12:00"
                     : entry.time.split("-")[0] + ":00"}
                 {" - "}
-                {entry.time.split("-")[1]}
+                {entry.type === "Practical" ? parseInt(entry.time.split("-")[1]) + 1 + ":50" : entry.time.split("-")[1]}
             </div>
 
             {/* Dot */}
