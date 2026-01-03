@@ -38,12 +38,13 @@ export default function Login() {
   }
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-black via-[#0b0615] to-black text-purple-100">
-      <div className="w-full max-w-md rounded-3xl border border-purple-900/40 bg-black/50 backdrop-blur p-8 shadow-xl shadow-purple-900/30">
-        <h1 className="text-2xl font-semibold mb-2 tracking-wide">
+    <div className="relative min-h-screen flex items-center justify-center">
+      <div className="fixed inset-0 app-bg" />
+      <div className="relative w-full max-w-md rounded-3xl glass-panel p-8 shadow-xl">
+        <h1 className="text-2xl font-semibold mb-2 tracking-wide text-accent">
           JIIT Planner
         </h1>
-        <p className="text-sm text-purple-400 mb-8">
+        <p className="text-sm text-muted mb-8">
           Login to view your timetable
         </p>
         {error && (
@@ -56,19 +57,19 @@ export default function Login() {
           placeholder="Username"
           value={username}
           onChange={e => setUsername(e.target.value)}
-          className="w-full mb-4 bg-black/40 border border-purple-900/40 px-4 py-3 rounded-xl focus:outline-none focus:ring-1 focus:ring-purple-500"
+          className="input mb-4"
         />
         <input
           type="password"
           placeholder="Password"
           value={password}
           onChange={e => setPassword(e.target.value)}
-          className="w-full mb-6 bg-black/40 border border-purple-900/40 px-4 py-3 rounded-xl focus:outline-none focus:ring-1 focus:ring-purple-500"
+          className="input mb-6"
         />
         <button
           onClick={handleLogin}
           disabled={loading}
-          className="w-full py-3 rounded-xl bg-purple-600 hover:bg-purple-500 transition font-medium disabled:opacity-60"
+          className="btn-primary w-full text-center"
         >
           {loading ? "Logging in..." : "Login"}
         </button>

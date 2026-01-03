@@ -4,7 +4,7 @@ export default function TimelineItem({ entry }) {
     return (
         <div className="relative flex gap-10 mb-10">
             {/* Time */}
-            <div className="w-36 text-right text-sm text-purple-400 pt-2">
+            <div className="w-36 text-right text-sm text-muted pt-2">
                 {entry.time.split("-")[0].trim() === "12 NOON"
                     ? "12:00"
                     : entry.time.split("-")[0]+":00"}
@@ -14,12 +14,12 @@ export default function TimelineItem({ entry }) {
 
             {/* Dot */}
             <div className="relative z-10">
-                <div className="w-3 h-3 rounded-full bg-purple-500 mt-3" />
+                <div className="w-3 h-3 rounded-full dot-accent mt-3" />
             </div>
 
             {/* Card */}
-            <div className="bg-black/50 backdrop-blur border hover:scale-105 duration-500 border-purple-900/40 rounded-2xl p-6 w-[420px] shadow-lg shadow-purple-900/20">
-                <div className="text-sm text-purple-400 mb-1">
+            <div className="card-cta hover:scale-105 duration-300 w-[420px]">
+                <div className="text-sm text-muted mb-1">
                     {entry.time}
                 </div>
 

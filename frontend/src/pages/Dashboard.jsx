@@ -1,4 +1,4 @@
-import { use, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import axios from "axios";
 
 import TopBar from "../components/TopBar";
@@ -32,13 +32,13 @@ export default function Dashboard() {
    return (
     <>
       {/* Fixed background */}
-      <div className="fixed inset-0 bg-gradient-to-br from-black via-[#0b0615] to-black" />
+      <div className="fixed inset-0 app-bg" />
 
       {/* Scrollable content */}
-      <div className="relative min-h-screen text-purple-100">
+      <div className="relative min-h-screen">
         <div className="max-w-6xl mx-auto px-6 pt-6 h-screen">
 
-          <div className="h-full rounded-3xl bg-black/40 backdrop-blur border border-purple-900/30 shadow-lg shadow-purple-900/10 flex flex-col overflow-hidden">
+          <div className="h-full rounded-3xl glass-panel flex flex-col overflow-hidden">
             
             <TopBar />
 
@@ -52,13 +52,13 @@ export default function Dashboard() {
               />
             </div>
 
-            <div className="h-px bg-purple-900/30 mx-6 my-4" />
+            <div className="divider mx-6 my-4" />
 
             {/* Timeline scrolls, background doesn't */}
             <div className="flex-1 px-6 pb-6 overflow-y-auto custom-scroll">
               {results.length === 0 ? (
                 <div className="h-full flex items-center justify-center">
-                  <p className="text-sm text-purple-400/70">
+                  <p className="text-sm text-muted">
                     No timetable found
                   </p>
                 </div>

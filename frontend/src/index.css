@@ -1,8 +1,133 @@
 @import "tailwindcss";
 
+:root {
+  color-scheme: dark;
+  --text-primary: #e5e7eb;
+  --text-muted: #cbd5e1;
+  --accent: #a855f7;
+  --accent-strong: #c084fc;
+  --accent-soft: rgba(168, 85, 247, 0.14);
+  --surface: rgba(12, 10, 22, 0.72);
+  --border: rgba(124, 58, 237, 0.35);
+  --line: rgba(124, 58, 237, 0.45);
+  --tag: rgba(88, 28, 135, 0.4);
+  --shadow: rgba(124, 58, 237, 0.2);
+  --bg-from: #070512;
+  --bg-via: #100728;
+  --bg-to: #05030f;
+}
+
+:root[data-theme="ocean"] {
+  --text-primary: #e0f2fe;
+  --text-muted: #b7e7ff;
+  --accent: #38bdf8;
+  --accent-strong: #0ea5e9;
+  --accent-soft: rgba(56, 189, 248, 0.16);
+  --surface: rgba(5, 24, 39, 0.72);
+  --border: rgba(14, 165, 233, 0.35);
+  --line: rgba(14, 165, 233, 0.5);
+  --tag: rgba(8, 47, 73, 0.55);
+  --shadow: rgba(14, 165, 233, 0.22);
+  --bg-from: #031423;
+  --bg-via: #052033;
+  --bg-to: #010b15;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--accent-soft) transparent;
+}
+
+body {
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+  color: var(--text-primary);
+  background: var(--bg-to);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.app-bg {
+  background: linear-gradient(140deg, var(--bg-from) 0%, var(--bg-via) 45%, var(--bg-to) 100%);
+}
+
+.glass-panel {
+  background-color: var(--surface);
+  border: 1px solid var(--border);
+  backdrop-filter: blur(14px);
+  box-shadow: 0 18px 50px -24px var(--shadow);
+}
+
+.divider {
+  height: 1px;
+  background: var(--border);
+}
+
+.border-chrome {
+  border-color: var(--border);
+}
+
+.text-accent {
+  color: var(--accent);
+}
+
+.text-muted {
+  color: var(--text-muted);
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--accent-strong), var(--accent));
+  color: #f8fafc;
+  border-radius: 0.9rem;
+  padding: 0.65rem 1.5rem;
+  font-weight: 600;
+  transition: transform 180ms ease, box-shadow 200ms ease, filter 200ms ease;
+  box-shadow: 0 10px 30px -18px var(--shadow);
+}
+
+.btn-primary:hover {
+  filter: brightness(1.05);
+  transform: translateY(-1px);
+  box-shadow: 0 16px 36px -20px var(--shadow);
+}
+
+.btn-primary:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.btn-ghost {
+  padding: 0.55rem 1.2rem;
+  border-radius: 0.9rem;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  background: rgba(255, 255, 255, 0.02);
+  transition: color 160ms ease, border-color 160ms ease, background 160ms ease, transform 160ms ease;
+}
+
+.btn-ghost:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  transform: translateY(-1px);
+}
+
 .input {
-  @apply bg-black/40 border border-purple-900/40 px-4 py-2 rounded-lg
-         focus:outline-none focus:ring-1 focus:ring-purple-500;
+  width: 100%;
+  background-color: var(--surface);
+  border: 1px solid var(--border);
+  padding: 0.75rem 1rem;
+  border-radius: 0.9rem;
+  color: var(--text-primary);
+  transition: border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px var(--accent-soft);
 }
 
 .custom-scroll::-webkit-scrollbar {
@@ -10,10 +135,41 @@
 }
 
 .custom-scroll::-webkit-scrollbar-thumb {
-  background: rgba(168, 85, 247, 0.4);
+  background: var(--accent-soft);
   border-radius: 999px;
 }
 
 .custom-scroll::-webkit-scrollbar-track {
   background: transparent;
+}
+
+.timeline-line {
+  background: var(--line);
+}
+
+.tag-chip {
+  background: var(--tag);
+  color: var(--text-primary);
+  border-radius: 999px;
+  padding: 0.35rem 0.9rem;
+  font-size: 0.8rem;
+}
+
+.dot-accent {
+  background: var(--accent);
+}
+
+.card-cta {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 1.25rem;
+  padding: 1.5rem;
+  backdrop-filter: blur(12px);
+  box-shadow: 0 18px 50px -26px var(--shadow);
+  transition: transform 200ms ease, box-shadow 200ms ease;
+}
+
+.card-cta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 22px 60px -26px var(--shadow);
 }

@@ -13,7 +13,7 @@ export default function Controls({
         value={batch}
         onChange={e => setBatch(e.target.value)}
         placeholder="Batch"
-        className="bg-black/40 border border-purple-900/40 px-4 py-2 rounded-lg focus:outline-none focus:ring-1 focus:ring-purple-500"
+        className="input max-w-xs"
       />
 
       <input
@@ -21,12 +21,12 @@ export default function Controls({
         value={day}
         onChange={e => setDay(e.target.value)}
         placeholder="Day"
-        className="bg-black/40 border border-purple-900/40 px-4 py-2 rounded-lg focus:outline-none focus:ring-1 focus:ring-purple-500"
+        className="input max-w-xs"
       />
 
       <button
         onClick={onSubmit}
-        className="bg-purple-600 hover:bg-purple-500 px-6 py-2 rounded-lg font-medium transition"
+        className="btn-primary"
       >
         Get
       </button>
