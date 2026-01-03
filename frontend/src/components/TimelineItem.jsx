@@ -1,6 +1,10 @@
 import Tag from "./Tag";
+import COURSE_MAP from "./helper";
+
 
 export default function TimelineItem({ entry }) {
+    const courseName = COURSE_MAP[entry.course] || entry.course;
+
     return (
         <div className="relative flex gap-10 mb-10">
             {/* Time */}
@@ -24,7 +28,7 @@ export default function TimelineItem({ entry }) {
                 </div>
 
                 <div className="text-xl font-semibold mb-3">
-                    {entry.course}
+                    {courseName}
                 </div>
 
                 <div className="flex flex-wrap gap-2 text-xs">

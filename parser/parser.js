@@ -27,7 +27,26 @@ const DAY_MAP = {
 
 const workbook = XLSX.readFile(FILE_PATH);
 const sheet = workbook.Sheets[workbook.SheetNames[0]];
-const rows = XLSX.utils.sheet_to_json(sheet, { header: 1 });
+let rows = XLSX.utils.sheet_to_json(sheet, { header: 1 });
+
+const STOP_KEYWORDS = ["COURSE CODE", "COURSE NAME", "SHORT NAME"];
+
+let stopIndex = rows.length;
+
+for (let i = 0; i < rows.length; i++) {
+  const row = rows[i];
+  if (
+    row.some(
+      cell =>
+        typeof cell === "string" &&
+        STOP_KEYWORDS.some(k => cell.toUpperCase().includes(k))
+    )
+  ) {
+    stopIndex = i;
+    break;
+  }
+}
+rows = rows.slice(0, stopIndex);
 
 const timeRow = rows.find(row =>
   row.some(cell => typeof cell === "string" && cell.includes("AM"))

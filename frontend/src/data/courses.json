@@ -1,0 +1,212 @@
+[
+  {
+    "shortName": "25B32EC211",
+    "courseCode": "25B32EC211",
+    "courseName": "Introduction to Artificial Intelligence with Python"
+  },
+  {
+    "shortName": null,
+    "courseCode": "19B13BT211",
+    "courseName": "Environmental Studies (CSE/IT 62)"
+  },
+  {
+    "shortName": "25B21EC212",
+    "courseCode": "25B21EC212",
+    "courseName": "Analog Electronic Circuits"
+  },
+  {
+    "shortName": "CS221",
+    "courseCode": "24B11CS221",
+    "courseName": "Design and Analysis of Algorithms"
+  },
+  {
+    "shortName": "25B21EC213",
+    "courseCode": "25B21EC213",
+    "courseName": "Discrete Signal Processing"
+  },
+  {
+    "shortName": "CS222",
+    "courseCode": "24B11CS222",
+    "courseName": "Artificial Intelligence and Machine Learning"
+  },
+  {
+    "shortName": "25B21EC214",
+    "courseCode": "25B21EC214",
+    "courseName": "Communication Engineering"
+  },
+  {
+    "shortName": "CS223",
+    "courseCode": "24B11CS223",
+    "courseName": "Software Engineering"
+  },
+  {
+    "shortName": "24B21EC212",
+    "courseCode": "24B21EC212",
+    "courseName": "Introduction to Microfabrication Technology"
+  },
+  {
+    "shortName": "CS224",
+    "courseCode": "24B15CS224",
+    "courseName": "Competitive Programming Lab"
+  },
+  {
+    "shortName": "15B1NEC733",
+    "courseCode": "15B1NEC733",
+    "courseName": "Fundamentals of Embedded Systems"
+  },
+  {
+    "shortName": "DE1CS211",
+    "courseCode": "25B12CS211",
+    "courseName": "Fundamentals of Data Analytics"
+  },
+  {
+    "shortName": "25B11EC311",
+    "courseCode": "25B11EC311",
+    "courseName": "Digital Systems and Computer Organisation"
+  },
+  {
+    "shortName": "DE2CS212",
+    "courseCode": "25B12CS212",
+    "courseName": "Fundamentals of Mobile Application Development"
+  },
+  {
+    "shortName": "DE3CS213",
+    "courseCode": "25B12CS213",
+    "courseName": "Fundamentals of Smart Systems and IoT"
+  },
+  {
+    "shortName": "CS243",
+    "courseCode": "24B11CS243",
+    "courseName": "Data Science & Data Analytics: Theory & Practice"
+  },
+  {
+    "shortName": "BT414",
+    "courseCode": "15B11BT414",
+    "courseName": "Immunology"
+  },
+  {
+    "shortName": "CS242",
+    "courseCode": "24B11CS242",
+    "courseName": "Artificial Intelligence and Machine Learning: Theory & Practice"
+  },
+  {
+    "shortName": "BT211",
+    "courseCode": "24B11BT211",
+    "courseName": "Molecular biology"
+  },
+  {
+    "shortName": "BT411",
+    "courseCode": "15B11BT411",
+    "courseName": "Introduction to Bioinformatics"
+  },
+  {
+    "shortName": "18B11EC212",
+    "courseCode": "18B11EC212",
+    "courseName": "Analog and Digital Communication"
+  },
+  {
+    "shortName": "BT312",
+    "courseCode": "15B11BT312",
+    "courseName": "Microbiology"
+  },
+  {
+    "shortName": "15B11EC411",
+    "courseCode": "15B11EC411",
+    "courseName": "Analogue Electronics"
+  },
+  {
+    "shortName": "BT372",
+    "courseCode": "15B17BT372",
+    "courseName": "Microbiology Lab"
+  },
+  {
+    "shortName": "15B11EC413",
+    "courseCode": "15B11EC413",
+    "courseName": "Digital Signal Processing"
+  },
+  {
+    "shortName": "BT471",
+    "courseCode": "15B17BT471",
+    "courseName": "Bioinformatics Lab"
+  },
+  {
+    "shortName": "15B11EC611",
+    "courseCode": "15B11EC611",
+    "courseName": "Telecommunication Networks"
+  },
+  {
+    "shortName": "BT474",
+    "courseCode": "15B17BT474",
+    "courseName": "Immunology Lab"
+  },
+  {
+    "shortName": "15B11EC313",
+    "courseCode": "15B11EC313",
+    "courseName": "Microprocessors and Microcontrollers"
+  },
+  {
+    "shortName": "12BT311",
+    "courseCode": "21B12BT311",
+    "courseName": "Phenomics"
+  },
+  {
+    "shortName": "17B1NEC735",
+    "courseCode": "17B1NEC735",
+    "courseName": "Information Theory and Applications"
+  },
+  {
+    "shortName": "12BT211",
+    "courseCode": "25B12BT211",
+    "courseName": "Python for Biologists"
+  },
+  {
+    "shortName": "25B12EC211",
+    "courseCode": "25B12EC211",
+    "courseName": "Electronic Instrumentation  and Measurement Techniques"
+  },
+  {
+    "shortName": "13BT211",
+    "courseCode": "19B13BT211",
+    "courseName": "Environmental Studies"
+  },
+  {
+    "shortName": "20B12EC211",
+    "courseCode": "20B12EC211",
+    "courseName": "Introduction to Digital Image and Video Processing"
+  },
+  {
+    "shortName": "11BT211",
+    "courseCode": "25B11BT211",
+    "courseName": "Sequence Informatics and Phylogenetics"
+  },
+  {
+    "shortName": "17BT212",
+    "courseCode": "25B17BT212",
+    "courseName": "PBL on Bioinformatics"
+  },
+  {
+    "shortName": "MA222",
+    "courseCode": "25B12MA222",
+    "courseName": "Fuzzy Sets, Logic and Applications"
+  },
+  {
+    "shortName": "MA223",
+    "courseCode": "25B12MA223",
+    "courseName": "Time Series Analysis and Forecasting"
+  },
+  {
+    "shortName": null,
+    "courseCode": "25B11MA231",
+    "courseName": "Theory and Applications of Linear Algebra"
+  },
+  {
+    "shortName": null,
+    "courseCode": "25B11MA232",
+    "courseName": "Numerical Methods and Computations Lab"
+  },
+  {
+    "shortName": null,
+    "courseCode": "25B11MA233",
+    "courseName": "Numerical Methods and Computations"
+  }
+]

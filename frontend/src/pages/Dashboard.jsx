@@ -31,10 +31,7 @@ export default function Dashboard() {
 
    return (
     <>
-      {/* Fixed background */}
       <div className="fixed inset-0 app-bg" />
-
-      {/* Scrollable content */}
       <div className="relative min-h-screen">
         <div className="max-w-6xl mx-auto px-6 pt-6 h-screen">
 
@@ -53,8 +50,6 @@ export default function Dashboard() {
             </div>
 
             <div className="divider mx-6 my-4" />
-
-            {/* Timeline scrolls, background doesn't */}
             <div className="flex-1 px-6 pb-6 overflow-y-auto custom-scroll">
               {results.length === 0 ? (
                 <div className="h-full flex items-center justify-center">
