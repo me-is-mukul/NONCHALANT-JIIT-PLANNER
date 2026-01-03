@@ -7,7 +7,7 @@ export default function TimelineItem({ entry }) {
             <div className="w-36 text-right text-sm text-muted pt-2">
                 {entry.time.split("-")[0].trim() === "12 NOON"
                     ? "12:00"
-                    : entry.time.split("-")[0]+":00"}
+                    : entry.time.split("-")[0] + ":00"}
                 {" - "}
                 {entry.time.split("-")[1]}
             </div>
@@ -18,7 +18,7 @@ export default function TimelineItem({ entry }) {
             </div>
 
             {/* Card */}
-            <div className="card-cta hover:scale-105 duration-300 w-[420px]">
+            <div className="card-cta w-[420px] transition duration-300 ease-out hover:-translate-y-[2px] hover:shadow-lg hover:shadow-purple-900/15">
                 <div className="text-sm text-muted mb-1">
                     {entry.time}
                 </div>
