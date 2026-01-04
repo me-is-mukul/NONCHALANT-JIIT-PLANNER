@@ -9,47 +9,88 @@ source venv/bin/activate
 pip install -r requirements.txt
 cd ../frontend
 npm i
-**Docker Deployment**
+```
+**Overview**
 
-This repository contains a Node backend and a Vite React frontend. The project includes Dockerfiles for each service and a `docker-compose.yml` to run them together.
+This repo contains three services:
+- `node-backend` — Express server (handles `/fetch`) exposed on port `3000`.
+- `python-backend` — FastAPI server (handles `/getsub`) exposed on port `8000`.
+- `frontend` — Vite React app built and served with `nginx` on port `80`.
 
-Quick start (build and run with docker-compose):
+All three services have Dockerfiles and a `docker-compose.yml` at the project root to run them together.
+
+**Quick Docker deploy**
+
+Build and start in detached mode:
 
 ```bash
 docker compose build
 docker compose up -d
 ```
 
-Services:
-- **backend**: Node.js Express app running on port `3000` inside the container (mapped to `3000` on the host).
-- **frontend**: Vite-built production site served by `nginx` on port `80` (mapped to `80` on the host).
-
-Notes:
-- Backend data files are mounted read-only from `./backend/data` so you can update JSON data locally without rebuilding.
-- To see logs:
+Check logs:
 
 ```bash
-docker compose logs -f backend
+docker compose logs -f node-backend
+docker compose logs -f python-backend
 docker compose logs -f frontend
 ```
 
-Stopping and removing containers:
+Stop and remove containers:
 
 ```bash
 docker compose down
 ```
 
-Build individual images:
+**Service endpoints (host ports)**
+- Node backend: http://localhost:3000 (POST `/fetch`)
+- Python backend: http://localhost:8000 (POST `/getsub`)
+- Frontend: http://localhost/ or http://localhost:80
+
+**Build images individually**
 
 ```bash
-# Backend image
-docker build -t planner-backend ./backend
-
-# Frontend image
+docker build -t planner-node-backend -f backend/Dockerfile ./backend
+docker build -t planner-python-backend -f backend/python.Dockerfile ./backend
 docker build -t planner-frontend ./frontend
 ```
 
-Environment:
-- The backend reads `PORT` from environment; the compose file sets it to `3000` by default.
+**Local development (without Docker)**
 
-If you prefer local development (without Docker), follow the original steps in the respective `backend` and `frontend` folders.
+Node backend (Express):
+
+```bash
+cd backend
+npm install
+# run development server
+npm run dev   # uses nodemon; server.js listens on PORT (default 3000)
+```
+
+Python backend (FastAPI):
+
+```bash
+cd backend
+python -m venv venv
+# Windows PowerShell
+venv\Scripts\Activate.ps1
+# or on Bash/macOS
+source venv/bin/activate
+pip install -r requirements.txt
+uvicorn server:app --reload --port 8000
+```
+
+Frontend (Vite):
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+**Notes and tips**
+- The `node-backend` service reads JSON files from `./backend/data`; the compose setup mounts that folder read-only so you can edit data locally without rebuilding the image.
+- If you change Python dependencies, rebuild the `python-backend` image.
+- On Windows, use `docker compose` (modern Compose V2) from PowerShell or CMD.
+
+If you want, I can run a local `docker compose build` and `docker compose up` here to verify everything builds and starts — permit me to run those commands in your terminal if you'd like.
+

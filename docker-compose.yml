@@ -1,8 +1,10 @@
 version: '3.8'
 
 services:
-  backend:
-    build: ./backend
+  node-backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
     ports:
       - "3000:3000"
     volumes:
@@ -10,9 +12,17 @@ services:
     environment:
       - PORT=3000
 
+  python-backend:
+    build:
+      context: ./backend
+      dockerfile: python.Dockerfile
+    ports:
+      - "8000:8000"
+
   frontend:
     build: ./frontend
     ports:
       - "80:80"
     depends_on:
-      - backend
+      - node-backend
+      - python-backend
