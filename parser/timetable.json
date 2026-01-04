@@ -2407,21 +2407,6 @@
   },
   {
     "day": "TUE",
-    "time": "2-2.50 PM",
-    "batches": [
-      "B5",
-      "B6"
-    ],
-    "course": "25B11EC311",
-    "room": "LT3",
-    "faculty": [
-      "MO"
-    ],
-    "type": "Lecture",
-    "raw": "LB5,B6(25B11EC311)-LT3/MO"
-  },
-  {
-    "day": "TUE",
     "time": "3-3.50 PM",
     "batches": [
       "A6"
@@ -3787,6 +3772,21 @@
     ],
     "type": "Practical",
     "raw": "PB2(25B15EC311)-JBSPL/ATA,TA10"
+  },
+  {
+    "day": "WED",
+    "time": "2-2.50 PM",
+    "batches": [
+      "B5",
+      "B6"
+    ],
+    "course": "25B11EC311",
+    "room": "LT3",
+    "faculty": [
+      "MO"
+    ],
+    "type": "Lecture",
+    "raw": "LB5,B6(25B11EC311)-LT3/MO"
   },
   {
     "day": "WED",
