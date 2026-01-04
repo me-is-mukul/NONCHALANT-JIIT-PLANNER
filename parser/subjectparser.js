@@ -76,6 +76,6 @@ export function parseCourseCatalog(xlsxPath) {
 
 const courses = parseCourseCatalog("sem4_62.xlsx");
 
-fs.writeFileSync("courses.json", JSON.stringify(courses, null, 2));
+fs.writeFileSync("../backend/data/courses.json", JSON.stringify(courses, null, 2));
 fs.writeFileSync("../frontend/src/data/courses.json", JSON.stringify(courses, null, 2));
 console.log(`parsed ${courses.length} courses`);

@@ -24,7 +24,7 @@ app.post("/fetch", async (req, res) => {
   }
 
   const timetable = JSON.parse(
-    fs.readFileSync("../parser/timetable.json", "utf-8")
+    fs.readFileSync("./data/timetable.json", "utf-8")
   );
 
   const filtered = timetable.filter(entry => {

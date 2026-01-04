@@ -147,6 +147,6 @@ const normalized = events.map(e => ({
   raw: e.raw
 }));
 
-fs.writeFileSync("timetable.json", JSON.stringify(normalized, null, 2));
+fs.writeFileSync("../backend/data/timetable.json", JSON.stringify(normalized, null, 2));
 
 console.log(`Parsed ${normalized.length} timetable entries`);
