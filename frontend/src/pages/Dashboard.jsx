@@ -12,7 +12,7 @@ export default function Dashboard() {
 
   function fetchTimetable(b, d) {
     axios
-      .post("http://localhost:3000/fetch", { batch: b, day: d })
+      .post("http://localhost:3000/fetch", { batch: b, day: d , enrolled:JSON.parse(localStorage.getItem("subjects") || "[]")})
       .then(res => setResults(res.data.timetable || []))
       .catch(err => {
         console.error(err);

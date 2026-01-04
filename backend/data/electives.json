@@ -1,4 +1,4 @@
-export const ELECTIVES = [
+[
   "25B12CS213",
   "25B16CS213",
 
@@ -22,4 +22,4 @@ export const ELECTIVES = [
 
   "16B1NHS332",
   "19B12HS412"
-];
+]
