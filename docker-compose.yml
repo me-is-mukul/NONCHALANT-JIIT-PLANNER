@@ -20,7 +20,11 @@ services:
       - "8000:8000"
 
   frontend:
-    build: ./frontend
+    build:
+      context: ./frontend
+      args:
+        VITE_NODE_API: "/api/node"
+        VITE_PY_API: "/api/python"
     ports:
       - "80:80"
     depends_on:

@@ -20,7 +20,8 @@ export default function Login() {
     setError("");
 
     try {
-      const res = await axios.post("http://localhost:8000/getsub", {
+      const PY_API = import.meta.env.VITE_PY_API || "http://localhost:8000";
+      const res = await axios.post(`${PY_API}/getsub`, {
         username,
         password,
       });
