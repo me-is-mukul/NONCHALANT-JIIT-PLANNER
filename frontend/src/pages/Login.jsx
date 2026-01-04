@@ -38,13 +38,13 @@ export default function Login() {
   }
 
   return (
-    <div className="relative min-h-screen flex items-center justify-center">
+    <div className="relative min-h-screen flex items-center justify-center px-4">
       <div className="fixed inset-0 app-bg" />
-      <div className="relative w-full max-w-md rounded-3xl glass-panel p-8 shadow-xl">
-        <h1 className="text-2xl font-semibold mb-2 tracking-wide text-accent">
+      <div className="relative w-full max-w-md rounded-2xl sm:rounded-3xl glass-panel p-6 sm:p-8 shadow-xl">
+        <h1 className="text-xl sm:text-2xl font-semibold mb-2 tracking-wide text-accent">
           JIIT Planner
         </h1>
-        <p className="text-sm text-muted mb-8">
+        <p className="text-sm text-muted mb-6 sm:mb-8">
           Login to view your timetable
         </p>
         {error && (
