@@ -3,12 +3,12 @@
 git clone https://github.com/me-is-mukul/NONCHALANT-JIIT-PLANNER.git
 cd NONCHALANT-JIIT-PLANNER
 cd backend
-npm install
+npm i
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 cd ../frontend
-npm install
+npm i
 ```
 
 ## OPEN 3 TERMINAL SESSIONS 
@@ -17,7 +17,7 @@ npm install
 ### inside backend
 ```bash
 uvicorn server:app --reload --port 8000  #session 1 make sure venv activate
-node server.js          #session 2
+npm run dev         #session 2 this run on port 3000
 ```
 ### inside frontend
 ```bash
