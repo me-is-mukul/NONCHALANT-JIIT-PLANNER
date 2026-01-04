@@ -15,27 +15,31 @@ export default function Controls({
   onSubmit,
 }) {
   return (
-    <div className="flex flex-wrap gap-4 px-8 py-6 items-end">
+    <div className="flex flex-col sm:flex-row flex-wrap gap-3 sm:gap-4 px-4 sm:px-8 py-4 sm:py-6 items-stretch sm:items-end">
       
-      <Dropdown
-        label="Batch"
-        value={batch}
-        onChange={setBatch}
-        options={BATCHES}
-        placeholder="Select batch"
-      />
+      <div className="flex-1 min-w-[120px]">
+        <Dropdown
+          label="Batch"
+          value={batch}
+          onChange={setBatch}
+          options={BATCHES}
+          placeholder="Select batch"
+        />
+      </div>
 
-      <Dropdown
-        label="Day"
-        value={day}
-        onChange={setDay}
-        options={DAYS}
-        placeholder="Select day"
-      />
+      <div className="flex-1 min-w-[120px]">
+        <Dropdown
+          label="Day"
+          value={day}
+          onChange={setDay}
+          options={DAYS}
+          placeholder="Select day"
+        />
+      </div>
 
       <button
         onClick={onSubmit}
-        className="btn-primary h-[42px]"
+        className="btn-primary h-[42px] sm:w-auto w-full"
       >
         Get
       </button>

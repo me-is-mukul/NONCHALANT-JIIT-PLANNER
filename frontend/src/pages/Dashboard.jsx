@@ -33,13 +33,13 @@ export default function Dashboard() {
     <>
       <div className="fixed inset-0 app-bg" />
       <div className="relative min-h-screen">
-        <div className="max-w-6xl mx-auto px-6 pt-6 h-screen">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 pt-4 sm:pt-6 h-screen">
 
-          <div className="h-full rounded-3xl glass-panel flex flex-col overflow-hidden">
+          <div className="h-full rounded-2xl sm:rounded-3xl glass-panel flex flex-col overflow-hidden">
             
             <TopBar />
 
-            <div className="px-6 pt-6">
+            <div className="px-4 sm:px-6 pt-4 sm:pt-6">
               <Controls
                 batch={batch}
                 day={day}
@@ -49,8 +49,8 @@ export default function Dashboard() {
               />
             </div>
 
-            <div className="divider mx-6 my-4" />
-            <div className="flex-1 px-6 pb-6 overflow-y-auto custom-scroll">
+            <div className="divider mx-4 sm:mx-6 my-3 sm:my-4" />
+            <div className="flex-1 px-4 sm:px-6 pb-4 sm:pb-6 overflow-y-auto custom-scroll">
               {results.length === 0 ? (
                 <div className="h-full flex items-center justify-center">
                   <p className="text-sm text-muted">

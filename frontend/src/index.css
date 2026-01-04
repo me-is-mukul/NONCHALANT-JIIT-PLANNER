@@ -92,6 +92,7 @@ body {
   box-shadow: 0 16px 36px -20px var(--shadow);
 }
 
+
 .btn-primary:disabled {
   opacity: 0.7;
   cursor: not-allowed;
@@ -172,4 +173,43 @@ body {
 .card-cta:hover {
   transform: translateY(-2px);
   box-shadow: 0 22px 60px -26px var(--shadow);
+}
+
+/* Mobile Responsive Styles */
+@media (max-width: 768px) {
+  .btn-primary,
+  .btn-ghost {
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+  }
+
+  .input {
+    padding: 0.65rem 0.85rem;
+    font-size: 0.875rem;
+  }
+
+  .glass-panel {
+    border-radius: 1.5rem;
+  }
+
+  .card-cta {
+    padding: 1rem;
+  }
+
+  .tag-chip {
+    padding: 0.25rem 0.7rem;
+    font-size: 0.75rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .btn-primary,
+  .btn-ghost {
+    padding: 0.45rem 0.85rem;
+    font-size: 0.8rem;
+  }
+
+  .glass-panel {
+    border-radius: 1rem;
+  }
 }
