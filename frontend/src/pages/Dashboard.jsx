@@ -11,8 +11,9 @@ export default function Dashboard() {
   const [results, setResults] = useState([]);
 
   function fetchTimetable(b, d) {
+    const NODE_API = import.meta.env.VITE_NODE_API || "http://localhost:3000";
     axios
-      .post("http://localhost:3000/fetch", { batch: b, day: d , enrolled:JSON.parse(localStorage.getItem("subjects") || "[]")})
+      .post(`${NODE_API}/fetch`, { batch: b, day: d , enrolled:JSON.parse(localStorage.getItem("subjects") || "[]")})
       .then(res => setResults(res.data.timetable || []))
       .catch(err => {
         console.error(err);

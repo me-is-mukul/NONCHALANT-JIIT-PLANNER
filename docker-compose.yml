@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  node-backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./backend/data:/app/data:ro
+    environment:
+      - PORT=3000
+
+  python-backend:
+    build:
+      context: ./backend
+      dockerfile: python.Dockerfile
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        VITE_NODE_API: "/api/node"
+        VITE_PY_API: "/api/python"
+    ports:
+      - "80:80"
+    depends_on:
+      - node-backend
+      - python-backend
